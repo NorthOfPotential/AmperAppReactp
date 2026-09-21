@@ -1,0 +1,23 @@
+[
+  {
+    "categoryName": "Design",
+    "modes": [
+      "Facilitation",
+      "Understand",
+      "Observe",
+      "Define",
+      "Ideate",
+      "Prototype",
+      "Test",
+      "Realise"
+    ]
+  },
+  {
+    "categoryName": "Agile",
+    "modes": [
+      "AgileMode1",
+      "AgileMode2",
+      "AgileMode3"
+    ]
+  }
+]

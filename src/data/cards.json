@@ -1,0 +1,2216 @@
+[
+  {
+    "id": "expert-interviews",
+    "cardName": "Expert Interviews",
+    "core": "Core",
+    "modesOfDesign": "Observe",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 2
+      }
+    ],
+    "frontImage": "/cards/expert-interviews-front.jpg",
+    "backImage": "/cards/expert-interviews-back.jpg",
+    "arIconImage": "/cards/expert-interviews-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Many projects require specific knowledge to \r\nunderstand the context or problem. Asking experts \r\nis often the most direct and efficient way to get the \r\nneeded information.\r\nExperts can not only answer precisely what you \r\nneed to know but might be able to direct you to \r\nother topics or people to talk to that you might not \r\nhave considered before.",
+    "backText": "Get a sound recorder and a notebook to record your insights.\r\nBrainstorm as a team on topics you would like to discuss with the \r\nparticipant; the more, the better. Finally, discuss the issues and agree \r\non 3-5 good topics.\r\nFormulate questions for each topic - ensure you only have a few \r\nquestions and avoid yes or no questions.\r\nHaving at least two people during the interview is best. But agree on \r\nyour roles - who interviews and who takes notes? \r\nContact the expert. If you need help figuring out where to start, \r\nbegin by contacting the person in your network who best fits the \r\nprofile you need. Tell them about your project and ask them whether \r\nthey could answer it for you or if they can recommend someone they \r\nknow who would be more suitable. Follow this chain of people for as \r\nmany steps as you find relevant.\r\na. Formulate your questions and ask the participant to provide concrete \r\nexamples and stories. Make sure you do not assume anything, ask \r\n\u201cwhy\u201d and \u201chow\u201c several times for more detailed explanations.\r\nb. Take this chance to ask for advice on specific challenges and to get \r\ndirected to the right people to explore the topic further.\r\nc. Record the interview to capture accurate quotes of the \r\nparticipant\u2019s words and use your notes to capture essential points.",
+    "templateImages": [
+      "/cards/expert-interviews-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/ERHzuzWNZ6RHmwYR1GTIVrkB5DW9UMRMsfBDbKZqVx4btw?e=0aZcDl"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "story-share-capture",
+    "cardName": "Story Share Capture",
+    "core": "Core",
+    "modesOfDesign": "Observe",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 2
+      }
+    ],
+    "frontImage": "/cards/story-share-capture-front.jpg",
+    "backImage": "/cards/story-share-capture-back.jpg",
+    "arIconImage": "/cards/story-share-capture-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Share to have a shared view! \r\nStory share & capture is an alignment tool typically \r\nused after ethnographic research.\r\nWith this method, each team member shares \r\ntheir gathered insights with the team. It brings \r\neveryone on the same page when team members \r\nuse different research methods. It sparks and \r\nfacilitates discussions that deeper explore the \r\nresearch themes.",
+    "backText": "Share the research findings with the team members by letting \r\neveryone know beforehand and asking them to organise and bring \r\ntheir insights to the session.\r\nThe team takes turns sharing their learnings from the field research \r\nthey have performed through stories and notes.\r\nOthers write down what they find the most important in the form \r\nof insights, headings or quotes on individual Post-its. Everyone \r\nplaces post-its on a wall in relation to one another to create a \r\nshared overview.\r\nReview all insights together at the end of the session. Re-organise and \r\ncluster insights iteratively until everyone agrees with the final overview.",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "surveys",
+    "cardName": "Surveys",
+    "core": "Core",
+    "modesOfDesign": "Observe",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 2
+      }
+    ],
+    "frontImage": "/cards/surveys-front.jpg",
+    "backImage": "/cards/surveys-back.jpg",
+    "arIconImage": "/cards/surveys-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Put a number on it! \r\nSurveys can fit your problem and can be an \r\nexcellent way to support or see the prevalence of \r\nyour insights in a quantitative way.\r\nStatistics can help decision-making and validate \r\nchoices.",
+    "backText": "Decide why you need the survey and what insights are best gathered \r\nthrough quantitative methods vs. qualitative ones.\r\nChoose a sample size that would be meaningful to get feedback from \r\nfor your project.\r\nWrite a set of questions to which you want aggregated answers. To \r\ncreate and distribute online surveys, use tools such as Google Forms. \r\nOtherwise, a paper survey can sometimes be better to target the \r\nright audience.\r\nTest your survey to ensure everything is understandable and clear to \r\nthe reader. Iterate through it until you are satisfied.\r\nDistribute the survey and collect the answers.\r\nAggregate the data if it isn\u2019t automatically done for you. Analyse the \r\nresults, e.g. look for any unexpected outcomes or if it validates any of \r\nyour qualitative findings.",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "observation",
+    "cardName": "Observation",
+    "core": "Core",
+    "modesOfDesign": "Observe",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 2
+      }
+    ],
+    "frontImage": "/cards/observation-front.jpg",
+    "backImage": "/cards/observation-back.jpg",
+    "arIconImage": "/cards/observation-ar.jpg",
+    "videoUrl": "https://player.vimeo.com/progressive_redirect/playback/839976395/rendition/1080p/file.mp4?loc=external&signature=ddb0342d4885efc88b45efef3bb477be833c5581fe4319ae022cce651090ebfc",
+    "frontText": "Take a close look at a situation! \r\nObservations provide deep insights into \r\nopportunities and challenges that only emerge in \r\nsome particular situations.\r\nBy using observations, we see the difference \r\nbetween what people say and what they do.\r\nWe often use observations to see how people use \r\nproducts and services in different situations or \r\nmanage without them.",
+    "backText": "Find a sound recorder and a notebook to record your insights.\r\nBrainstorm from your knowledge about the challenge, who/what you \r\nwant to observe, and in what situations. The more suggestions, the \r\nbetter. Discuss them and agree on how you want to proceed.\r\nWrite an observation guide describing your approach in detail. What \r\nproducts, services and use situations do you particularly want to \r\nobserve? How will you observe (notes, video and pictures)? Format \r\nfor your data/notes, e.g. \u201dWhat do people do, how do they do it, and \r\nwhy do they do it\u201d.\r\nGet the necessary permissions, e.g. to film and take pictures - and \r\nthen go!\r\nTell the participants what the observation is about without priming \r\nthem \u2013 i.e. tell them enough to make them feel safe without \r\nrevealing too many details about what you want to get out of the \r\nobservation or your thoughts about what you think they do.\r\nMonitor the situation and influence what is happening as little \r\nas possible. Capture everything along the way - including your \r\nimpressions and interpretations (for example, in \u201d Why do they do \r\nthis\u201d).\r\nInterview the participant you have observed afterwards based on \r\nwhat you have seen, if relevant and possible.",
+    "templateImages": [
+      "/cards/observation-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EdrVtsW49eVHl1N_P5pqsX8B8fzxLJO_8d5vDnqtQfPc3A?e=W5fBQb"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "actor-network-map",
+    "cardName": "Actor Network Map",
+    "core": "Core",
+    "modesOfDesign": "Observe",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 2
+      }
+    ],
+    "frontImage": "/cards/actor-network-map-front.jpg",
+    "backImage": "/cards/actor-network-map-back.jpg",
+    "arIconImage": "/cards/actor-network-map-ar.jpg",
+    "videoUrl": "https://player.vimeo.com/progressive_redirect/playback/838195105/rendition/1080p/file.mp4?loc=external&signature=c23b6af45d6eaafc9b10403dc4d4d47a9522198626f1885ce7112bda0d9ebece",
+    "frontText": "Map it out! \r\nAn actor-network map is a way to visualise the \r\nactors and the connecting processes around a \r\nspecific cause.\r\nThis method is a way to gather findings in an \r\norganised manner. It guides your team around the \r\ntopic by displaying which causal relationships have \r\nyet to be explored.",
+    "backText": "Map one key actor (human or not) at the centre of your research \r\ntopic. Draw a box around it.\r\nIdentify the actors around the central one. These can be human and \r\nnon-human and be intentionally or unintentionally connected to the \r\nmain actor. Draw individual boxes around them.\r\nAssign proximate and root causes to these actors. Proximate causes\r\nare those that immediately result in a specific change. Root causes \r\nare those which lead to proximate causes. Place proximate-cause \r\nactors close to the central actor. Place root actors further away.\r\nDraw connections between these actors and label these with \r\nprocesses phrased as verbs.\r\nConsider colour coordinating, clustering etc. Remember to add a \r\nlegend for others or yourself in the future.\r\nBased on the first draft, explore areas you need more information \r\nabout to make it more concrete. It can guide your next activity in the \r\nproject. Update Actor-Network Map as you find new information.",
+    "templateImages": [
+      "/cards/actor-network-map-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EWS4infHaKxJjtDN6EWWoKwBdYzayzM20n03lISRB-0YqQ?e=wpggnL"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "user-interviews",
+    "cardName": "User Interviews",
+    "core": "Core",
+    "modesOfDesign": "Observe",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 2
+      }
+    ],
+    "frontImage": "/cards/user-interviews-front.jpg",
+    "backImage": "/cards/user-interviews-back.jpg",
+    "arIconImage": "/cards/user-interviews-ar.jpg",
+    "videoUrl": "https://player.vimeo.com/progressive_redirect/playback/756394939/rendition/1080p/file.mp4?loc=external&signature=7283709415e793b42f0df08afab41aa246ce1034be52a59be83dc9b9029f27fd",
+    "frontText": "Talk to people! \r\nInterviews give us a picture of the different needs \r\nof our target group as well as inspiration to see \r\nopportunities we have yet to think of.\r\nThrough interviews, we try to see the world from \r\nthe interviewee\u2019s perspective.\r\nWe conduct interviews to gather knowledge and \r\nbuild empathy to understand users\u2019 behaviour and \r\nchoices in different situations.",
+    "backText": "Get a sound recorder and a notebook to record your insights.\r\nBrainstorm as a team topics you would like to discuss with the \r\nparticipant; the more, the better. Finally, discuss the issues and agree \r\non 3-5 good topics.\r\nChoose an interview form that suits the type of knowledge you \r\nwant, e.g.:\r\n\u2022 Intercepts, where you interview the participant for a few minutes \r\nin a situation where you expect to get excellent answers about \r\nwhat they are doing and why.\r\n\u2022 In-depth interviews, where you typically interview the participant for \r\n20 min or longer in a place where you are sure the conversation will \r\nnot be disturbed.\r\nFormulate questions for each topic. Ensure you only have a few \r\nquestions and avoid yes or no questions. Ensure the quantity and \r\ntype of questions match the interview form.\r\nHaving at least two people during the interview is best. But agree on \r\nyour roles - who interviews and who takes notes?\r\n\u2022 Make the participants feel comfortable and create an informal \r\natmosphere.\r\n\u2022 Formulate your questions and ask the participant to provide concrete \r\nexamples and stories. Ask \u201cwhy\u201d several times for more detailed \r\nexplanations, and let the participant tell unexpected stories about \r\nyour topics.\r\n\u2022 Record the interview to capture accurate quotes of the \r\nparticipant\u2019s words and use your notes to capture essential \r\npointers, body language, environment, etc.",
+    "templateImages": [
+      "/cards/user-interviews-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EbL57xsSdsxEo9kco0ANzhEB7BnVlfPbyFqZDKRxByRT2w?e=MnQxdz"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "roll-the-snowball",
+    "cardName": "Roll The Snowball",
+    "core": "Core",
+    "modesOfDesign": "Observe",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 2
+      }
+    ],
+    "frontImage": "/cards/roll-the-snowball-front.jpg",
+    "backImage": "/cards/roll-the-snowball-back.jpg",
+    "arIconImage": "/cards/roll-the-snowball-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Keep it rolling! \r\nFor partner-hunting, we use the approach \u201croll the \r\nsnowball\u201d.\r\nWe roll the snowball by finding an expert who \r\nrefers us to another expert, etc. We repeat until \r\nwe have found the appropriate partner.\r\nIn this hunting process, we gradually define what \r\ncompetencies and personalities we seek and \r\ncollect this ongoingly in a partner profile.",
+    "backText": "Print a good stack of profile cards.\r\nElaborate your design vision or problem so you can quickly explain it \r\nto a potential partner.\r\nDescribe in profile cards who are your desired partners. Fill out as \r\nmany areas as you can. You will describe the remaining ones later. \r\nFind one person from the area - it does not have to be someone you \r\nexpect to work with, just someone who knows the area better than \r\nyou do.\r\nCall the person, explain your vision and ask what competencies they \r\nthink you need. Ask for the name of someone you can contact further.\r\nUpdate the profile card with your new insights - and then keep calling, \r\nexplaining the vision, receiving feedback and getting new names.\r\nContinue until you find a partner you are passionate about working with!",
+    "templateImages": [
+      "/cards/roll-the-snowball-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EXX-b2PFMjdJg4A-asmkGDEB_qSc59_5Wgrwyen7h7_s3A?e=Kof2M7"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "decision-voting",
+    "cardName": "Decision Voting",
+    "core": "Core",
+    "modesOfDesign": "Facilitation",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 0
+      },
+      {
+        "category": 1,
+        "mode": 2
+      }
+    ],
+    "frontImage": "/cards/decision-voting-front.jpg",
+    "backImage": "/cards/decision-voting-back.jpg",
+    "arIconImage": "/cards/decision-voting-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Take the democratic approach! \r\nDecision voting can be helpful to converge and \r\nreduce the number of insights or ideas the team \r\nwill work with.\r\nThere are many ways to vote, and you should \r\ndecide which best fits the needs of the task and \r\nthe team. The criteria on which the voting is based \r\ncan also alter the results.\r\nYou can choose democratically or use the scoring \r\nyour team gives each element as one of the \r\ncriteria to base the final decision",
+    "backText": "Consider what type of voting best fits the team and task: Is it a \r\nproblem if people are influenced by one another? If so, consider \r\nblind voting, such as voting in an online or physical survey and \r\nsimultaneously lifting a card with a score. If not, you can use dot\u0002voting (placing dot stickers signifying one vote).\r\nConsider if you prefer having the ideas ranked relative to each other \r\nor scoring them individually from a numerical scale.\r\nConsider whether you will use the votes as one of many criteria to \r\ninform your choice or directly and democratically follow the outcome \r\nof the voting exercise to reduce your scope.\r\nDecide on the criteria you will use for the voting; here are some \r\nsuggestions: preference, feasibility or potential user desirability. \r\nRemember that you can do multiple rounds of voting by using \r\ndifferent criteria.\r\nOrganise the insights or ideas you are voting on, so they are easily \r\nrecognisable, e.g. hanging them on the wall so people can walk \r\naround and read them.\r\nAsk everyone to take a few minutes to review all of the insights or \r\nideas that they will be voting on.\r\nPrompt everyone to vote on the insights or ideas based on your \r\nchosen criteria and tools. If you use multiple measures, separate \r\nthem into rounds or distinguish them, e.g., through colour-coded \r\ndot stickers.\r\nReview the outcome with the team and use the votes to start a \r\ndiscussion.",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "check-in-check-out",
+    "cardName": "Check-In Check-Out",
+    "core": "Core",
+    "modesOfDesign": "Facilitation",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 0
+      },
+      {
+        "category": 1,
+        "mode": 0
+      }
+    ],
+    "frontImage": "/cards/check-in-check-out-front.jpg",
+    "backImage": "/cards/check-in-check-out-back.jpg",
+    "arIconImage": "/cards/check-in-check-out-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Feel the mood! \r\nEmpathise and align with other team members \r\nby creating a moment to share their excitement, \r\nconcerns, feedback and updates.\r\nBy checking in and out, you can see the effect of \r\nthe session on participants\u2019 mood and outlook on \r\nthe activity.\r\nThis can be done at a specific workshop or as a \r\nrecurring activity in meetings with your team.",
+    "backText": "Get your team together in a circle at the beginning of the day (for check-in) \r\nand at the end of it (for check-out).\r\nCheck-in\r\nDefine a question which can be general or related to the day\u2019s theme. \r\nHere are some examples:\r\n\u2022 What do I want to learn and focus on today?\r\n\u2022 What would I like to contribute to the workshop?\r\n\u2022 What are you looking forward to today?\r\n\u2022 What inspires me about today?\r\nTake turns around the room to answer so everybody can speak.\r\nCheck-out\r\nSimilarly, define a common question for the day, e.g.:\r\n\u2022 What did you get out of the day?\r\n\u2022 What was fun, surprising, and educational?\r\n\u2022 What hopes do you have for the next day?\r\n\u2022 What feeling are you checking out with?\r\nTake turns around the room to answer so everybody can speak.",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "scale-exercise",
+    "cardName": "Scale Exercise",
+    "core": "Core",
+    "modesOfDesign": "Facilitation",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 0
+      }
+    ],
+    "frontImage": "/cards/scale-exercise-front.jpg",
+    "backImage": "/cards/scale-exercise-back.jpg",
+    "arIconImage": "/cards/scale-exercise-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Discover nuances! \r\nParticipants physically display their opinion and \r\nviewpoints on chosen topics by placing themselves \r\non a scale.\r\nThis exercise can break the ice, energise par",
+    "backText": "Create a scale by writing each number at each extreme, e.g. 1 and 10 \r\nin a 1-10 scale, on a cardboard card.\r\nUse tape to create a line on the floor to represent the scale from, e.g. \r\n1 to 10.\r\nDefine and pose a question relevant to the day\u2019s theme.\r\nInvite participants to place themselves on the scale and stand in a \r\nline on the floor.\r\nAsk the participants why they have chosen to stand where they have \r\nto create a joint discussion between participants.",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "feedback",
+    "cardName": "Feedback",
+    "core": "Core",
+    "modesOfDesign": "Facilitation",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 0
+      }
+    ],
+    "frontImage": "/cards/feedback-front.jpg",
+    "backImage": "/cards/feedback-back.jpg",
+    "arIconImage": "/cards/feedback-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Build people up! \r\nProviding constructive feedback is a skill that you \r\ncan develop. One way to do this is by following the \r\n\u201cI like, I wish, what if\u201c formula.\r\nFeedback is crucial for your team to grow. How- ever, it can also create a hostile atmosphere if \r\nincorrectly delivered.",
+    "backText": "Create a comfortable environment within the team so that feedback is \r\nreceived positively. Shape the delivery of the feedback as well as the content \r\nof it. Here is one example of a model that makes feedback a success, both \r\nfor a deliverer and a recipient of it.\r\n\u201dI Like, I Wish, What If \u2019\u2019\r\nWhen delivering feedback:\r\n\u2022 Be concrete\r\n\u2022 Be constructive and flexible\r\nWhen receiving feedback:\r\n\u2022 Listen actively and have an open mind,\r\n\u2022 Say thank you and treat feedback as a gift which you decide if \r\nyou want to act upon.",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "stoke",
+    "cardName": "Stoke",
+    "core": "Core",
+    "modesOfDesign": "Facilitation",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 0
+      }
+    ],
+    "frontImage": "/cards/stoke-front.jpg",
+    "backImage": "/cards/stoke-back.jpg",
+    "arIconImage": "/cards/stoke-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Move people! Loosen people up with some physical activities encompassing multiple games and exercises. Stoke will mentally and physically stimulate team members to perform better in the following activities. This activity is e.g. used at the start of the day, right before an exercise that needs people to be very engaged, or when you want to energise the room.",
+    "backText": "Find a stoke activity that feels appropriate for your team. A stoke activity \r\nshould require participants to actively engage, listen, think, and do. Here \r\nare some you can try.\r\nCategory, category, die! \r\nPick a category.\r\nAt a fast pace, point at each person in a random order. When a \r\nperson is pointed at, they must say a word in that category. If they \r\ncan\u2019t, everyone shouts, \u201c Die!\u201d and they are eliminated for that round.\r\nSound ball \r\nGather in a circle.\r\nPass an imaginary ball to each other by making eye contact with the \r\nrecipient and making a noise as the ball is thrown.\r\nThe recipient must repeat that noise when catching it and make a \r\nnew sound as he throws it to the next person. Add balls around the \r\ncircle or increase the speed to make it more challenging.\r\n\u201cYes, Let\u2019s\u201d \r\nHave everyone walk around the room randomly.\r\nOne person offers, e.g.\u201d Let\u2019s act like the floor is ice\u201d. Everyone \r\nresponds,\u201d Yes, let\u2019s,\u201d and follows that instruction.\r\nAnyone can make a new offer anytime, and everyone must comply.",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "i-do-art",
+    "cardName": "I Do Art",
+    "core": "Core",
+    "modesOfDesign": "Facilitation",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 0
+      }
+    ],
+    "frontImage": "/cards/i-do-art-front.jpg",
+    "backImage": "/cards/i-do-art-back.jpg",
+    "arIconImage": "/cards/i-do-art-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Go in the same direction! \u201dI do art\u201d is an acronym for a checklist that allows your team to align in a meeting, workshop, or other session. Each\u201d I do art\u201d letter represents Intention, Desired Outcome, Agenda, Roles and rules, and Time.",
+    "backText": "Get your team together and go through the following points.\r\n\r\nIntention: What is the intent or purpose of the workshop/ meeting? Why are we here?\r\n\r\nDesired Outcome / Output: What effect or outcome should result from the workshop? What do we want once the workshop is over?\r\n\r\nAgenda: What tasks/exercises/activities should be carried out during the workshop to achieve the desired outcome?\r\n\r\nRoles and Rules: What roles are necessary to ensure the workshop\u2019s success? Is there a clear distinction between these roles, e.g. facilitator and participant? Do we need to set some rules at the start?\r\n\r\nTime: The time frame for the session, including breaks.",
+    "templateImages": [
+      "/cards/i-do-art-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/ET-Bz5_ksHtNi4SjYc62Z5EBDSRMj-ZMTvUdHMfIchTWNA?e=nxRLWC"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "blind-drawing",
+    "cardName": "Blind Drawing",
+    "core": "Core",
+    "modesOfDesign": "Facilitation",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 0
+      },
+      {
+        "category": 1,
+        "mode": 1
+      }
+    ],
+    "frontImage": "/cards/blind-drawing-front.jpg",
+    "backImage": "/cards/blind-drawing-back.jpg",
+    "arIconImage": "/cards/blind-drawing-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Laugh together! \r\nDraw each other without looking at the paper to \r\nbreak the ice and have fun together.\r\nWhen the workshop\u2019s atmosphere feels heavy \r\nor formal, this exercise allows users to laugh at \r\nthemselves together.\r\nUse this method to break the ice or as an \r\nenergiser. Getting the participants to bond \r\nbefore an exercise in pairs or small groups can be \r\nespecially useful.",
+    "backText": "Distribute the necessary drawing materials to each person.\r\nParticipants sit in pairs and have only 30 seconds to draw each \r\nother without looking at the paper. You can play music as the \r\nparticipants draw.\r\nSignal the end of the 30 seconds and stop the music. Have everyone \r\nwrite the name of the person they drew at the bottom of the paper.\r\nRepeat this for 2 or 3 more rounds with new pairings. \r\nIn the end, everyone will receive 3 or 4 drawings of themselves and \r\nchoose the one that portrays them best.",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "test-cards",
+    "cardName": "Test Cards",
+    "core": "Core",
+    "modesOfDesign": "Test",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 6
+      }
+    ],
+    "frontImage": "/cards/test-cards-front.jpg",
+    "backImage": "/cards/test-cards-back.jpg",
+    "arIconImage": "/cards/test-cards-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Test hypotheses!\r\nWith test cards, we measure the effect we expect \r\nour concept to have, which until now has only \r\nbeen hypothetical.\r\nThe test shows whether the concept works in its \r\ncurrent form and inspires further development \r\nand marketing.\r\nThe test focuses on testing several of the most \r\ncritical hypotheses.",
+    "backText": "Print many test cards - you will need one for each of the hypotheses \r\nyou wish to test.\r\nSelect a solution to test that has been matured through, e.g. rapid \r\nfeedback matrix. You can also use the method to test minimum viable \r\nproducts, i.e. early versions of the final solution that are more than \r\njust prototypes.\r\nBrainstorm what critical hypotheses (assumptions) you have \r\nabout your solution that will be important to get tested\u2014balance \r\nhypotheses aimed at users, technology and economic reality.\r\nComplete a test card for each critical hypothesis and determine how \r\nto measure and test your assumptions. You can research various test \r\nforms, e.g. focus group tests, usage tests and test actions.\r\nPrioritise your test cards so that the most critical hypotheses, which \r\nare quick and cheap to test, come first.\r\nConduct the test as designed on your test card. Often, this involves \r\nbuilding specialised prototypes and test set-ups such as focus groups \r\nand long-term tests. \r\nFind out if your critical hypotheses are valid. If needed, formulate \r\nadditional test cards to learn more about invalid hypotheses and \r\nunderlying factors. Use these test loops to finalise your concept.",
+    "templateImages": [
+      "/cards/test-cards-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/ESGu-cJq4GJOoII3hr_2rrUByCU54OXCmpILIx-VVBE0jw?e=n9UPk7"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "rapid-feedback-matrix",
+    "cardName": "Rapid Feedback Matrix",
+    "core": "Core",
+    "modesOfDesign": "Test",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 6
+      }
+    ],
+    "frontImage": "/cards/rapid-feedback-matrix-front.jpg",
+    "backImage": "/cards/rapid-feedback-matrix-back.jpg",
+    "arIconImage": "/cards/rapid-feedback-matrix-ar.jpg",
+    "videoUrl": "https://player.vimeo.com/progressive_redirect/playback/756402941/rendition/1080p/file.mp4?loc=external&signature=67ed9aebff46f4501d954e844cbd9bd9e091c687e1734b541b80c04250d775b7",
+    "frontText": "Get feedback!\r\nFeedback is one of the central parts of design \r\nthinking. Generally, we want to get feedback as early, \r\nas quickly, and from as many people as possible.\r\nThe Rapid Feedback Matrix requires little \r\npreparation, enabling you to collect feedback \r\nquickly. You gather feedback, criticism, questions \r\nand new ideas systematically.\r\nOften, you combine this method with one or \r\nmore prototyping methods. A prototype offers an \r\nexcellent and concrete basis for feedback gathering.",
+    "backText": "Start with a low-fidelity prototype, provotype, or idea you want to \r\nget feedback on from specific people.\r\nPrint the \u201crapid feedback matrix\u201d template or draw the matrix on a \r\nwhiteboard or flip chart. The matrix can help collect respondents\u2019 \r\nfeedback on prototypes, provotypes and ideas. \r\nInvite relevant stakeholders to give you feedback. Explain what you \r\nwould like them to provide feedback on. They can be internally in \r\nyour organisation or external experts and users. The model collects \r\ntwo types of feedback and two types of reflections:\r\n\u2022 A delta symbol represents critical feedback.\r\n\u2022 A heart represents positive feedback.\r\n\u2022 A question mark represents questions for clarification.\r\n\u2022 A light bulb represents new ideas that emerge from the team. \r\nStay neutral while collecting and reflecting on the feedback. Try to \r\nanswer all questions with questions.\r\nDiscuss learnings in the team right after the test to align \r\ninterpretations and agree on the next steps.",
+    "templateImages": [
+      "/cards/rapid-feedback-matrix-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EcgFo9XCix9Po58-6uA3jMUB3oCS3-SIxaLku86_UgdMjA?e=GeOfIv"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "think-out-loud-test",
+    "cardName": "Think-Out-Loud Test",
+    "core": "Core",
+    "modesOfDesign": "Test",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 6
+      }
+    ],
+    "frontImage": "/cards/think-out-loud-test-front.jpg",
+    "backImage": "/cards/think-out-loud-test-back.jpg",
+    "arIconImage": "/cards/think-out-loud-test-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Talk as you go!\r\nThis method works as it sounds. You encourage the \r\ntest subject \u2013 e.g. user or expert - to keep saying \r\nwhat they think as they use the solution.\r\nThe think-out-loud test is a great way to capture \r\nwhere precisely the user struggles using the \r\nsolution, as you will notice even minor frustrations.\r\nAlthough saying what they think may be daunting \r\nfor users initially, you will get more honest and \r\ndeeper insights once they get used to it.",
+    "backText": "Build a medium to high-fidelity prototype of the solution, e.g. \r\nminimum viable product or early software. All the features you want \r\nto test need to be included, but nothing else.\r\nClarify what you want to learn from the test \u2013 use, e.g. test cards or \r\nassumption dump (see cards).\r\nDescribe a task, i.e., short instructions explaining what the test \r\nsubjects should try to achieve during the test. Ensure the description \r\nguides the user away from any non-existing features.\r\nPresent the prototype to your users along with the task description \r\nand let them start the test. Explain that they need to talk constantly \r\nduring the test \u2013 to \u201cthink out loud\u201d.\r\nRecord as much data as possible through video, pictures and \r\ninterview notes during the test. Capture the user\u2019s experience and \r\noccasionally ask questions, but keep them to a minimum. Don\u2019t help \r\nthem if confused, but capture what they say. \r\nFinalise the test by analysing your video and audio across multiple \r\nusers. Organise a learning workshop with your team to elicit learnings \r\nfrom the data and refine the design.",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "ab-testing",
+    "cardName": "AB Testing",
+    "core": "Core",
+    "modesOfDesign": "Test",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 6
+      }
+    ],
+    "frontImage": "/cards/ab-testing-front.jpg",
+    "backImage": "/cards/ab-testing-back.jpg",
+    "arIconImage": "/cards/ab-testing-ar.jpg",
+    "videoUrl": "",
+    "frontText": "It\u2019s all relative!\r\nThis method is typically used during the design \r\nprocess to find out how options A and B compare \r\nagainst each other, be it two very different \r\nsolutions or two minor features.\r\nA/B testing asks the test subject to choose \r\nbetween two particular types of products. It is \r\neasier for a test subject to evaluate the quality of \r\nA compared to B than to assess it on its own.\r\nThe test subject is only sometimes a user. \r\nA/B testing can, e.g. be used to ask experts to \r\ndetermine which technological direction is best.",
+    "backText": "Build two prototypes in the same way. Otherwise, the test subject \r\nwill focus their feedback on the prototyping method rather than \r\nthe concept. Prototypes could be low or high-fidelity. Good options \r\nare, e.g. prototyping on paper, physical models, or fully functional \r\nsoftware.\r\nClarify what you want to learn from the test \u2013 use, e.g. test cards or \r\nassumption dump (see cards). \r\nDescribe a task, i.e., short instructions explaining what the test \r\nsubjects should try to achieve during the test.\r\nPresent the two prototypes and the task description to your test \r\nsubject. They perform the task with prototype A and then B. You can \r\nask your test subject to \u201cthink out loud\u201d during the test (see card).\r\nAsk test subjects to choose their preferred prototype after the test. \r\nInterview them regarding why and what exactly they liked about each \r\nprototype. \r\nRecord as much data as possible through video, pictures and \r\ninterview notes.\r\nUse your insights to create a new specification for the next version of \r\nthe design, e.g. \u201cmostly A, but with this feature from B\u201d.",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "design-questions",
+    "cardName": "Design Questions",
+    "core": "Core",
+    "modesOfDesign": "Define",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 3
+      }
+    ],
+    "frontImage": "/cards/design-questions-front.jpg",
+    "backImage": "/cards/design-questions-back.jpg",
+    "arIconImage": "/cards/design-questions-ar.jpg",
+    "videoUrl": "https://player.vimeo.com/progressive_redirect/playback/834728035/rendition/1080p/file.mp4?loc=external&signature=fae7e1264c540c01dcda1cced0a3fa0f10e48eaf8e0e31a934c844c4d5760448",
+    "frontText": "How Might We? \r\nA data-based design question always starts with \r\n\u2018How might we...\u2019?\r\nDesign questions are the heart of idea \r\ndevelopment. They set the direction for the ideas \r\nand ensure the connection between user needs \r\nand our solutions.\r\nAlthough we must think broadly when creating \r\nideas, ideas must always answer the design \r\nquestion.",
+    "backText": "Write down the issues you have found in your data in an easy-to\u0002understand format, e.g., jobs-to-be-done.\r\nPrint the design question template for everyone.\r\nEveryone formulates at least 3 design questions silently for the \r\nproblem you have chosen to solve. A design question always starts \r\nwith \u201cHow might we ...\u201d\r\nDiscuss your questions and create more in collaboration \u2013 use the \r\nstrategies from the template to strengthen your questions.\r\nEvaluate and adjust the design questions. Make them concrete \r\nenough to get answers in the form of ideas quickly but sufficiently \r\nabstract so that there are many possible answers to the same \r\nquestion. Think \u201dwhy\u201d to lift the level of abstraction and \u201dhow\u201d to \r\nlower it.\r\nChoose a few of the most inspiring questions for each of your jobs.\r\nRepeat the process until you have formulated design questions for all \r\nchosen problems.",
+    "templateImages": [
+      "/cards/design-questions-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EcmYXJ6fDshAvBHYwwunxLsBI5c0_yQ5rBhAZUvh_TkQfg?e=PoPW6Y"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "jobs-to-be-done",
+    "cardName": "Jobs To Be Done",
+    "core": "Core",
+    "modesOfDesign": "Define",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 3
+      }
+    ],
+    "frontImage": "/cards/jobs-to-be-done-front.jpg",
+    "backImage": "/cards/jobs-to-be-done-back.jpg",
+    "arIconImage": "/cards/jobs-to-be-done-ar.jpg",
+    "videoUrl": "https://player.vimeo.com/progressive_redirect/playback/756392057/rendition/1080p/file.mp4?loc=external&signature=059ab1936d323e7c1a88a1b107b70e9174bdab4b2010fe9d71a72cd62a46958e",
+    "frontText": "Find jobs that need solving! \r\nWe use jobs-to-be-done to simplify the complex \r\ndata to brief descriptions of jobs our ideas must \r\nsolve for the user.\r\nIt is easy to get lost in a large data set, and \r\nformulating the jobs to be done helps the team \r\nfocus on the most important insights.\r\nFinding all the patterns and jobs in the data set is \r\nunnecessary - a few deep insights are enough.",
+    "backText": "Make your data set easy to understand by putting it on a wall or \r\nspreading it on a large table.\r\nFind clues in your data set for tasks you can solve. The indications are \r\ntypically in one of the four areas of the structure of a job: [user] who is \r\nin [situation/context] needs [user\u2019s need] because [cause of need].\r\nLook for needs in the data set based on the 3 main types:\r\n\u2022 Functional needs describe specific functions the user tries to do.\r\n\u2022 Emotional needs describe how the user wants to feel in a \r\nparticular situation.\r\n\u2022 Social needs describe how the user wants to be perceived by others.\r\nWrite as many short job descriptions as you can. First, separately, \r\nwithout speaking to each other, and then together. Remember, \r\nthe causes of the needs are often not apparent in data but require \r\ninterpreting and comparing different data sources.\r\nWrite 3-5 job descriptions in more detail which would be meaningful \r\nto solve for you and the user.",
+    "templateImages": [
+      "/cards/jobs-to-be-done-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EdtngYMLreFFoO4rpQa4NGYB2QWmKlYfwnT55NfjugS1xw?e=dXoFsj"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "assumption-dump",
+    "cardName": "Assumption Dump",
+    "core": "Core",
+    "modesOfDesign": "Define",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 3
+      }
+    ],
+    "frontImage": "/cards/assumption-dump-front.jpg",
+    "backImage": "/cards/assumption-dump-back.jpg",
+    "arIconImage": "/cards/assumption-dump-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Clear out your brain! \r\nDumping your assumptions is an essential step for \r\na successful design process, and this method can \r\nguide you through it.\r\nAcknowledging your assumptions as such enables \r\nyou to take steps to get rid of them and validate or \r\ninvalidate them through research.\r\nThis method helps you not only identify \r\nassumptions but also proposes a mechanism to \r\nrank them based on how dangerous they are to \r\nyour process and outcome.",
+    "backText": "Brainstorm in a group about your assumptions. \r\nWrite out 6 categories of assumptions in the template: customers, \r\nproblem, solution, MVP, competition, and sales channel. Use, ignore \r\nor adapt categories to fit your problem. Phrase assumptions as \r\nstatements, e.g. for a pizza delivery service, an assumption might be \r\n\u201ccustomers have phones available\u201d or \u201cpeople want to personalise \r\ntheir pizzas\u201d.\r\nIterate until you are happy with the breadth and depth your \r\nassumptions cover.\r\nScore each assumption 1-5 based on the probability of it being \r\nwrong. In the above example, it is unlikely that customers will not \r\nhave phones. Thus score is 1.\r\nScore each assumption 1-10 based on the impact of it being wrong. \r\nIn the above example, customers not having phones has a huge \r\nimpact. Thus score is 9.\r\nMultiply the above scores to estimate the risk the assumption would \r\nhave if it were wrong. In the above example, probability 1 x impact 9 \r\n= risk 9\r\nCompare risk scores and identify the most dangerous assumptions \r\nyou hold. Results will help you distribute resources and identify \r\nnecessary research areas.",
+    "templateImages": [
+      "/cards/assumption-dump-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EZ38KntqeghAkPz8Fkaz5zkBf0iHjauku-8mJdxUGWkITg?e=ouoMs8"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "technology-readiness-levels-tlr",
+    "cardName": "Technology Readiness Levels TLR",
+    "core": "Core",
+    "modesOfDesign": "Define",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 3
+      }
+    ],
+    "frontImage": "/cards/technology-readiness-levels-tlr-front.jpg",
+    "backImage": "/cards/technology-readiness-levels-tlr-back.jpg",
+    "arIconImage": "/cards/technology-readiness-levels-tlr-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Measure maturity! \r\nThe nine Technology Readiness Levels (TRLs) are a \r\nsystem to measure the maturity level of a particular \r\ntechnology.\r\nThe scale goes from the lowest level of maturity \r\nTRL1 where the basic principles are being observed \r\nto the highest level of maturity TRL9 where the \r\ntechnology has been successfully used in a context \r\nsimilar to yours. \r\nYou can use the TRL framework to assess the \r\nmaturity of technology you may want to develop \r\nor implement into your processes, products and \r\nservices for risk management and decision-making.",
+    "backText": "Find the template describing what each TRL means. Ensure everyone \r\nhas the template at hand so they can follow the process.\r\nIdentify the specific technology you are considering implementing. \r\nResearch about the technology and its development.\r\nMove upward through the levels in the template, asking if the \r\nselected technology fulfils them.\r\nStop at the last fulfilled stage (i.e. fulfilling TRL4 does not move you \r\nup to TRL5).\r\nConsider if the identified maturity level still fits your needs. \r\nEvaluate your time, financial resources and the benefits of using this \r\ntechnology",
+    "templateImages": [
+      "/cards/technology-readiness-levels-tlr-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/Ef1eTgGf_mJHi5qECUx8-oMBgV87jAJ-Kbryq_FtMWLiwQ?e=7j5d67"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "user-journey",
+    "cardName": "User Journey",
+    "core": "Core",
+    "modesOfDesign": "Define",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 3
+      }
+    ],
+    "frontImage": "/cards/user-journey-front.jpg",
+    "backImage": "/cards/user-journey-back.jpg",
+    "arIconImage": "/cards/user-journey-ar.jpg",
+    "videoUrl": "https://player.vimeo.com/progressive_redirect/playback/834728569/rendition/1080p/file.mp4?loc=external&signature=c829e25ad0ea9db85f6fe96df3208b249758205c8c270297ac49a37ec791d9de",
+    "frontText": "Follow the user!\r\nA user journey maps the course a user goes through \r\nto achieve a task - for example, to order a pizza.\r\nWith the user journey, it is possible to compare \r\nexperiences across a wide range of users.\r\nWe map user journeys to identify and compare the \r\nhighs and lows of individual user\u2019s experiences of \r\nthe same journey.",
+    "backText": "Collow the user!\r\nA user journey maps the course a user goes through \r\nto achieve a task - for example, to order a pizza.\r\nWith the user journey, it is possible to compare \r\nexperiences across a wide range of users.\r\nWe map user journeys to identify and compare the \r\nhighs and lows of individual user\u2019s experiences of \r\nthe same journey.",
+    "templateImages": [],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EZKMvOQTKs5CpnrnWkchw8QBigv-9nbJSGIN8hJMeV5i7g?e=Eq93vf"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "pains-gains",
+    "cardName": "Pains Gains",
+    "core": "Core",
+    "modesOfDesign": "Define",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 3
+      }
+    ],
+    "frontImage": "/cards/pains-gains-front.jpg",
+    "backImage": "/cards/pains-gains-back.jpg",
+    "arIconImage": "/cards/pains-gains-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Capture motivations! \r\nIdentify your user\u2019s pains and gains and discover the \r\nreasoning behind their decision-making process.\r\nUse the pains and gains to clearly describe the \r\nvalue proposition that would matter the most.\r\nHaving concretely and concisely visualised pain \r\nand gains can allow you to effectively identify \r\nopportunities to address these.",
+    "backText": "We recommend that you use a persona at the centre of this method. \r\nCheck out the persona method card if you still need to make one.\r\nPlace the relevant persona at the centre of the page.\r\nBrainstorm in a group about this persona\u2019s pains by following \r\nthe template:\r\na. What makes them angry, anxious, annoyed or afraid? \r\nb. What obstacles and risks are in their way?\r\nBrainstorm in a group about this persona\u2019s gains:\r\na. What does this persona expect, need or want? \r\nb. What would they benefit from?\r\nc. What is their desired outcome?\r\nIdentify and highlight the critical pains and gains and how these \r\nrelate to each other.\r\nConsider using this method parallel to an empathy map; together, they can \r\ncreate a valuable persona analysis.",
+    "templateImages": [
+      "/cards/pains-gains-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/Eb3lIUATkMFOhQnth4UTxdcBpCcJvJpW5th-IMqL7k9B2g?e=QEX8Po"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "personas",
+    "cardName": "Personas",
+    "core": "Core",
+    "modesOfDesign": "Define",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 3
+      }
+    ],
+    "frontImage": "/cards/personas-front.jpg",
+    "backImage": "/cards/personas-back.jpg",
+    "arIconImage": "/cards/personas-ar.jpg",
+    "videoUrl": "https://player.vimeo.com/progressive_redirect/playback/842541732/rendition/1080p/file.mp4?loc=external&signature=91d3d35ed2397f06da3b1542b8d5283df0df8343e6a011953efcd98d93b9c6be",
+    "frontText": "Put a name to it! \r\nPersonas are archetypes that are used to collect \r\ncommon behaviours and attitudes towards a \r\nproduct or a service.\r\nThese can be an excellent way to compile many \r\ninsights into a manageable object.",
+    "backText": "Gather all the insights you want to summarise and inform your \r\npersonas, e.g. interviews, observations, cultural probes, etc.\r\nCluster and organise insights into similar attitudes and behaviours \r\nbased on the insights gathered through previous methods carried out \r\nduring Observe mode. \r\nCreate personas based on the resulting clusters. Sketch and outline a \r\ndiverse range of personas.\r\nDevelop the personas further by thinking about their specific \r\ngoals, behaviours, aspirations, and pain points in and out of the \r\nrelationship with the product or service. Match exact quotes or \r\nimages to each persona.\r\nName the persona and create a recognisable image to identify them.",
+    "templateImages": [
+      "/cards/personas-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EZHUsW19SU9EhuT1225ikhQB8CC0MRr8-BOAoKDMkkay4w?e=CzaQFt"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "insight-affinity-diagram",
+    "cardName": "Insight Affinity Diagram",
+    "core": "Core",
+    "modesOfDesign": "Define",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 3
+      }
+    ],
+    "frontImage": "/cards/insight-affinity-diagram-front.jpg",
+    "backImage": "/cards/insight-affinity-diagram-back.jpg",
+    "arIconImage": "/cards/insight-affinity-diagram-ar.jpg",
+    "videoUrl": "https://player.vimeo.com/progressive_redirect/playback/831167117/rendition/1080p/file.mp4?loc=external&signature=3ae061bc92ae1c23bcccc355c57b463f4b847890ad57ad2b797629a50edcbfc6",
+    "frontText": "Find themes and patterns! \r\nUse affinity diagrams to organise, categorise and \r\ncluster your insights to find patterns and themes.\r\nGet your entire team to understand your insights in \r\nthe same way. \r\nThis method can help you find empty areas within \r\nyour research where unknowns remain to be \r\nexplored.",
+    "backText": "Collect all your insights generated by other methods, such as \r\ninterviews, observations and PEST analysis.\r\nRead and place the insights as post-its on the board, clustering them \r\nas you go.\r\nMake titles for each group, and feel free to draw arrows and circles \r\naround subgroups to reveal how the insights link to each other (e.g. \r\nsimilarity, dependency or proximity to each other).\r\nReveal new exciting insights by combining existing ones. You may \r\nhave also identify groups of insights that are underdeveloped, and \r\nthat could be expanded through further research.\r\nRecord missing information on differently coloured Post-its and add \r\nthem to the relevant cluster.\r\nPlace this map on a whiteboard, wall or digital board. Let the team \r\ncontinuously update and revisit the diagram. It will ensure they share \r\nthe mental model of the problem space.",
+    "templateImages": [
+      "/cards/insight-affinity-diagram-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EcLtXW-309NNpgFe2WL_3o4B4AoEZevJl91VNRJV35zm8Q?e=OOosez"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "storyboards",
+    "cardName": "Storyboards",
+    "core": "Core",
+    "modesOfDesign": "Prototype",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 5
+      }
+    ],
+    "frontImage": "/cards/storyboards-front.jpg",
+    "backImage": "/cards/storyboards-back.jpg",
+    "arIconImage": "/cards/storyboards-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Visualize the user experience!\r\nStoryboards are used as a prototype to \r\nconceptualise an idea in a format similar to a \r\ncomic strip.\r\nStoryboards are powerful when showing an \r\ninteraction between a user and a new product, \r\nservice or IT solution.\r\nIn a storyboard, put yourself in the user\u2019s place and \r\ntell the experience from the user\u2019s point of view.",
+    "backText": "Select ideas you would like to prototype through storyboards and \r\nwho should see them. If you choose to present to your manager in the \r\norganisation, the design will be different than if you present to a user.\r\nFind user journeys if you have made them - they often contain some \r\ngood touch points that can be used to unfold your ideas.\r\nFind the essence of your story by answering three questions: What \r\nproblem does our idea solve, how does it solve it, and what benefits \r\ndoes it give the user?\r\nCreate a narrative in note form from the user\u2019s point of view that \r\ndescribes their journey through your solution - from problems they \r\nexperienced to gained benefits.\r\nDraw 5-10 squares on a large paper and illustrate your story. Start by \r\nusing Post-its so you can swap out drawings and move them around - \r\njust use line drawings and stick figures.\r\nMake a clean drawing when you finish moving and swapping the \r\npost-its. Do not spend too much time on the drawing, but make it \r\nconcrete enough for the recipients to understand the concept fully. \r\nUse speech bubbles, signs and text to support your picture if needed.\r\nShow your storyboard to the selected recipients and use the \r\ndrawing to facilitate a dialogue about the idea and get input on \r\nhow it can be improved.",
+    "templateImages": [
+      "/cards/storyboards-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EZtq9pxDKv9NkJM3bcJdvooBZlbysiHE0cMPWFETnhyX0A?e=bCpHQB"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "prototype-to-decide",
+    "cardName": "Prototype To Decide",
+    "core": "Core",
+    "modesOfDesign": "Prototype",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 5
+      }
+    ],
+    "frontImage": "/cards/prototype-to-decide-front.jpg",
+    "backImage": "/cards/prototype-to-decide-back.jpg",
+    "arIconImage": "/cards/prototype-to-decide-ar.jpg",
+    "videoUrl": "https://player.vimeo.com/progressive_redirect/playback/756399438/rendition/1080p/file.mp4?loc=external&signature=9eef3314a252c4a73ad8a941751c2011efbe66b76833d2c3e27ec7223de92766",
+    "frontText": "Prototyping in three dimensions!\r\n\u201dPrototypes to decide\u201d are used to test aesthetics, \r\nfunctionality and technology considerations.\r\n\u201dPrototypes to decide\u201d can be used throughout \r\nthe development process.\r\nThe prototypes should be as simple and \r\ninexpensive as possible but still allow you to get \r\nthe clarification you need.",
+    "backText": "Select one or more ideas for which you want to make a prototype. \r\nIt would help if you prototyped several ideas at once early in the \r\ndevelopment process. Later, you can settle for just one or two when \r\nthe concept is more mature.\r\nChoose which considerations you want to clarify with a prototype: \r\nlook & feel, role or implementation.\r\n\u2022 Look & feel clarifies aesthetics, colours, shape, and physical feel.\r\n\u2022 Role is about clarifying functions and the functional role of the \r\nconcept for the user.\r\n\u2022 Implementation is about clarifying technical feasibility.\r\nSelect the resolution you want to make the prototype in. Use quick, \r\ncheap prototypes early in the project. Prototypes in higher, and thus \r\nmore expensive, resolution only make sense at the end of the project.\r\nChoose whom you want to test the prototype with. Implementation \r\nprototypes are usually tested internally. Look & feel and role \r\nprototypes are generally tested with users or external stakeholders.\r\nBuild a prototype that suits your choice - search for inspiration for \r\ntechniques on the support sheet.",
+    "templateImages": [
+      "/cards/prototype-to-decide-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EaZV8uH7gHpEj4j4HzVlIFsBGVKcP91kXwR0jpYWaznUgA?e=1JEEgV"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "role-playing",
+    "cardName": "Role-Playing",
+    "core": "Core",
+    "modesOfDesign": "Prototype",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 5
+      }
+    ],
+    "frontImage": "/cards/role-playing-front.jpg",
+    "backImage": "/cards/role-playing-back.jpg",
+    "arIconImage": "/cards/role-playing-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Fake it \u2018til you make it! \r\nRole-playing is an excellent way to prototype a \r\nproduct or service implementation. It allows you to \r\nprototype the process of using the solution.\r\nRole-playing can have many functions: putting \r\nyourself in the shoes of the user, testing the \r\nrobustness or demonstrating the solution to a \r\nthird party, such as investors.\r\nThis is the cheapest and fastest prototype you can \r\nbuild, as It is up to you how high fidelity you want \r\nthe environment and props to be.",
+    "backText": "Identify the situation you want to focus on and the goal of what \r\nyou want to test with the role-play prototype. Use this to decide on \r\nscenery (e.g. physical context), roles (e.g. user, employee), and props \r\n(e.g. product, interfaces, and costumes). \r\nCreate a storyline and as much script, rules and objectives as your \r\nactors need. Perhaps deliberately introduce misunderstandings? How \r\nmuch improvisation you want to allow depends on your solution and \r\nthe prototype\u2019s goal.\r\nAssign roles to volunteers from your design team who will be the \r\nactors while the others act as the audience. Allow your actors time to \r\nfamiliarise themselves with their roles. \r\nRole-play the scenes and consider recording them for later use and \r\nanalysis.\r\nDiscuss the situation with the actors, audience and any external \r\nguests to gather insights.",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "prototype-on-paper",
+    "cardName": "Prototype On Paper",
+    "core": "Core",
+    "modesOfDesign": "Prototype",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 5
+      }
+    ],
+    "frontImage": "/cards/prototype-on-paper-front.jpg",
+    "backImage": "/cards/prototype-on-paper-back.jpg",
+    "arIconImage": "/cards/prototype-on-paper-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Digital prototype on paper!\r\nWith paper prototypes, you can gain a great \r\nunderstanding of how users understand and \r\ninteract with a digital concept or service concept.\r\nUsing cardboard, paper and a review of possible \r\nfunctionalities, you can easily, cheaply and quickly \r\ntest digital concepts on users.\r\nPaper prototypes encourage the team to become \r\nvery specific about the functionality and structure \r\nof the solution.",
+    "backText": "Collect the necessary materials: cardboard, post-its, paper and pencil.\r\nCreate a flowchart describing the features and screens your users \r\nmust go through for each idea you want to prototype.\r\nDraw various screens on cardboard, paper or post-its.\r\nDevise tasks you want the users to try on your prototype, e.g. \u201cOrder \r\na pizza for a rehearsal room\u201d.\r\nMake routes through the various screens users must go through to \r\nachieve the goals set for the tasks.\r\nTest the prototype by giving the tasks to the users and having them \r\nsay out loud what they intend to do before pressing the drawn \r\nbutton. When they press the right \u201cbutton\u201d, you give them the next \r\nscreen as a drawing.\r\nApply insights from your tests to improve the prototype and then \r\ntest again.\r\nUse PowerPoint or POP apps for phones (there are good free ones) to \r\nmake the prototypes more digital. Here you can scan sketches, insert \r\npictures and make interactive buttons that change the screens and \r\ngive an experience of a \u201dreal\u201d app.",
+    "templateImages": [
+      "/cards/prototype-on-paper-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EZ1Jp2qoWFpCnoKi6hhyqkoBuAWeiNpmtSqR4Z-2di13wA?e=tAmrJV"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "mock-up",
+    "cardName": "Mock-Up",
+    "core": "Core",
+    "modesOfDesign": "Prototype",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 5
+      }
+    ],
+    "frontImage": "/cards/mock-up-front.jpg",
+    "backImage": "/cards/mock-up-back.jpg",
+    "arIconImage": "/cards/mock-up-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Build a model of the finished product!\r\nA mock-up is a model of a finished product that \r\nallows the assessment of the design before using \r\nresources on developing prototypes.\r\nIt should simulate the actual product without \r\nhaving its complete functionality.\r\nIt allows the team to correct mistakes and \r\ndiscrepancies early.",
+    "backText": "Make a detailed technical description and outline of the final \r\nproduct, features, and context based on your chosen ideas.\r\nBuild a model of your concept as close to the final concept as possible \r\nbut with cheap materials. If possible, the model must be designed to \r\nbe tested in the final environment and built on a 1:1 scale.\r\nBuild a digital or graphical model, if it is a new service, to test essential \r\nfunctions and simulate the final service in the real environment.\r\nPitch your Mock-up to people from different parts of the company \r\nto provide input and evaluation of the mock-up. It will often \r\noffer several new ideas for optimising the project and clarify any \r\ndiscrepancies that must be addressed.\r\nTest your Mock-up with the users who will use the final concept in \r\nthe environment where it will be sold or used.",
+    "templateImages": [
+      "/cards/mock-up-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/ETZAxV9iyXVLicnqw9ifi6gBXEUERe-bgPyQfyP3N5ElEg?e=LOjnsf"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "design-challenge",
+    "cardName": "Design Challenge",
+    "core": "Core",
+    "modesOfDesign": "Understand",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 1
+      }
+    ],
+    "frontImage": "/cards/design-challenge-front.jpg",
+    "backImage": "/cards/design-challenge-back.jpg",
+    "arIconImage": "/cards/design-challenge-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Define what you are solving! \r\nFraming your design challenge comprehensively \r\nwill benefit your productivity by narrowing the \r\nproblem and solution space to only what is \r\nrelevant. It will help your team, who will agree \r\non a path forward and be able to refer back to a \r\ncommon goal.\r\nThe design challenge can and should be flexible to \r\nchange as you learn more about the problem and \r\nredefine your scope.",
+    "backText": "Discuss with your team about the insights gathered so far.\r\nWith the support of the template, inspire your team with the \r\nquestion, \u201cWhat is the essence of the challenge?\u201c. Write down the \r\ncomments of the team on a whiteboard. Finally, create a common \r\nsentence starting with \u201cI want to re-design/create the way to\u2026\u201c.\r\nRepeat the previous step with your team by asking, \u201cWho is the \r\nprimary user group? \u201c. The sentence can start with \u201cThe main target \r\nis ... and after that, it also targets... \u201c.\r\nRepeat one last time with the question, \u201cWhy is this important? \r\nWhat specific facts underpin the challenge? \u201cto create a common \r\nsentence which follows this structure: \u201cBecause right now\u2026 and in \r\nthe future\u2026 \u201c.\r\nOnce the design challenge is defined, use it to discuss and iterate \r\nuntil the team is satisfied.\r\nDisplay the design challenge visibly and accessible to everyone in the \r\nproject. Update it if your scope changes.",
+    "templateImages": [
+      "/cards/design-challenge-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EZC3oAlizHVJoTbfoq47dfcBy6KSHQk2dGstezmKambU8w?e=1LNsET"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "mission-countdown",
+    "cardName": "Mission Countdown",
+    "core": "Core",
+    "modesOfDesign": "Understand",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 1
+      }
+    ],
+    "frontImage": "/cards/mission-countdown-front.jpg",
+    "backImage": "/cards/mission-countdown-back.jpg",
+    "arIconImage": "/cards/mission-countdown-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Let\u2019s be concise! \r\nAs a team, define the goal of the session or project \r\nin rounds of iteration.\r\nUse this tool to encourage dialogue and align \r\nteam members.",
+    "backText": "Divide your team into sub-groups if you have a larger team. This \r\nexercise works best in small groups of around 3-8 people.\r\nPrepare a common point of departure for all team members. The \r\ninput could be, e.g. project initiation document, a presentation \r\nfrom the Product Owner, Problem Owner, Managers etc.; a \r\nshort challenge-brief with information on, e.g. markets, users, \r\ntechnological trends, strategic wishes from the organisation, etc. \r\nConsider that these may require prior reviewing from team members.\r\nFollow the template: write the mission or purpose of the workshop \r\nor project, the goal or intended outcome of the session, and the \r\nintended users in 16 words. Give 5 minutes for this step.\r\nEveryone presents their results and has a group discussion to reach \r\nas much consensus as possible. Encourage people to steal from each \r\nother for the next step. Alternatively, choose not to perform this step \r\nand only discuss the results at the end of the exercise instead. Give \r\n10 minutes for this step.\r\nRepeat steps 3-4 but create an 8-word mission.\r\nRepeat steps 3-4 but create a 4-word mission. You are looking for 4 \r\nmost important words of your statement.\r\nChoose the statement that best reflects the team\u2019s mission and write \r\nit on a large poster or a whiteboard. It will be used as a place to refer \r\nback to at later stages. A mission statement should be memorable \r\nand help align the team\u2019s efforts.",
+    "templateImages": [
+      "/cards/mission-countdown-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EcMVjLTjwlVHjwXFeBFZrUQBPtvrsInp-4f2eO523N-rYQ?e=IFEhKU"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "build-a-team",
+    "cardName": "Build A Team",
+    "core": "Core",
+    "modesOfDesign": "Understand",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 1
+      }
+    ],
+    "frontImage": "/cards/build-a-team-front.jpg",
+    "backImage": "/cards/build-a-team-back.jpg",
+    "arIconImage": "/cards/build-a-team-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Hacker, hustler, hipster! \r\nThe successful composition of a team is not only \r\nthe sum of all its members\u2019 capabilities but is the \r\nresult of how these interact with one another. \r\nSomething that is an asset can quickly become a \r\npoint of discomfort within a team due to conflicts, \r\ncompetition or redundancies.\r\nHere, we present the simple Hustler, Hipster, \r\nHacker framework for developing a team, \r\npresenting three profiles that must be fulfilled. \r\nHowever, to ensure positive interaction between \r\nthe complex personalities and abilities, we \r\nrecommend using the Big 5 framework, for which \r\nwe have a whole other deck of cards for you to use.",
+    "backText": "The framework we present here is simple: every team needs a \r\nHipster, a Hustler and a Hacker. Let\u2019s take this one step at a time.\r\nFind a Hipster: someone creative such as a designer. Their role is to \r\nadd functional and aesthetic aspects that make the outcome stand out.\r\nFind a Hacker: someone with the technical abilities to develop the \r\nproduct. In digital projects, this might be a developer.\r\nFind a Hustler: who delivers the solution to partners and customers. \r\nThey will focus on the business model, marketing and finding \r\npartnerships.\r\nConsider using this method in parallel with the Big 5 cards. These \r\nwill give you a more thorough understanding of how the team will \r\ninteract and how this may impact your outcomes. Ask us if you want \r\nto hear about our Big 5 cards; we will happily help you access them.",
+    "templateImages": [
+      "/cards/build-a-team-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EaZG-wOyX4JAiaZAKJpLyPIBplznU1nsEqLNGSd3u3UxZA?e=j9Fuqx"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "roadmap",
+    "cardName": "Roadmap",
+    "core": "Core",
+    "modesOfDesign": "Realise",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 7
+      }
+    ],
+    "frontImage": "/cards/roadmap-front.jpg",
+    "backImage": "/cards/roadmap-back.jpg",
+    "arIconImage": "/cards/roadmap-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Build the way! \r\nOnce the concept has been well-defined and \r\ntested, it is time to set implementation milestones \r\nand actions.\r\nA roadmap is great for communicating the status \r\nand planned next steps of a project or solution to \r\nstakeholders. \r\nDifferent stakeholders may have unique viewpoints, \r\nwhich you translate into necessary actions.",
+    "backText": "Decide on the purpose of your roadmap \u2013 your main decision is \r\nwhether it is a roadmap for implementation or a solution roadmap, \r\nwhich may go many years into the future.\r\nOrganise a workshop where you include the central stakeholders \r\nwith the viewpoints and knowledge you need to create a robust and \r\nvalid roadmap.\r\nDraw a suitable timeline on a whiteboard or use the poster from the \r\ntemplate. This will focus the attention of your participants.\r\nPlace key dates, decisions, and activities on Post-its. If it is an \r\nimplementation roadmap, you typically start at the end and work \r\nbackwards. If it is a solution roadmap, you typically start from today \r\nand work forwards.\r\nCluster the content into meaningful groups \u2013 e.g. swim lanes for \r\ndepartments or technologies \u2013 anything that makes sense to ease the \r\ncommunication of the roadmap. \r\nUse the roadmap, or parts of it, to communicate with stakeholders \r\nabout the solution or project. Update it regularly through workshops \r\nto ensure the reliability of the content.",
+    "templateImages": [
+      "/cards/roadmap-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EflgQgsTz3NLm4hk2_kzRBcBndnMGzxeKcl4KeaHerytcw?e=0IRZZX"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "business-model-canvas",
+    "cardName": "Business Model Canvas",
+    "core": "Core",
+    "modesOfDesign": "Realise",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 7
+      }
+    ],
+    "frontImage": "/cards/business-model-canvas-front.jpg",
+    "backImage": "/cards/business-model-canvas-back.jpg",
+    "arIconImage": "/cards/business-model-canvas-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Define the value! \r\nThe business model canvas is a strategic and \r\ntactical management tool for defining a concrete \r\nand coherent business model for your solution or \r\nentire business\r\nThe canvas is made up of 9 blocks. Each of these \r\nfocuses on one aspect of the business model \r\ncorresponding to the infrastructure, the finances, \r\nthe customers, or the offering.\r\nThis tool can help you define areas of your solution \r\nyou had not thought about before and also show \r\nyou how much your solution will require your \r\norganisation to change and thus mitigate risks.",
+    "backText": "Fill out the nine blocks for your solution by starting from the value \r\nproposition. Down drown in details, write the most important aspects \r\nof the business model. The template guides you through prompts.\r\nReview all nine blocks once they are filled with the main information. \r\nEvaluate if something is missing and add it. It helps to take a break \r\nbefore doing this or bring a new team member to review your writing.\r\nCheck if all the elements on the left-hand side of the canvas support \r\nthe ones on the right, e.g. that customer segments are linked to a \r\nvalue proposition. Stay realistic about your solution and your existing \r\norganisation.\r\nDiscuss the canvas with your team and stakeholders in the \r\norganisation. Especially, make sure that you engage stakeholders \r\naffected by the changes the business model spells out \u2013 e.g. people \r\nneeding to do new activities.\r\nGo deeper and further. Map out alternative business models and \r\ncompare them for viability, or map your competitors\u2019 business \r\nmodels and compare them with your own. ",
+    "templateImages": [
+      "/cards/business-model-canvas-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EYchcUW0uDRErRDzynXU1mkBg0VMz2Cb0BbEzJHb90HmLA?e=rtWRED"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "swot-analysis",
+    "cardName": "Swot Analysis",
+    "core": "Core",
+    "modesOfDesign": "Realise",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 7
+      }
+    ],
+    "frontImage": "/cards/swot-analysis-front.jpg",
+    "backImage": "/cards/swot-analysis-back.jpg",
+    "arIconImage": "/cards/swot-analysis-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Strengths, weaknesses, opportunities & threats! \r\nPerforming a SWOT analysis can inform your \r\nstrategy for the business or the solution.\r\nThe analysis organises positive and negative \r\nfactors of internal and external origin.\r\nA SWOT analysis is simple and easy to do in any \r\ngroup size and aligns people.",
+    "backText": "Decide on the level of your SWOT analysis \u2013 is it, e.g. for your entire \r\nbusiness or a specific solution?\r\nOrganise a workshop where you include the central stakeholders \r\nwith the viewpoints and knowledge you need to create a robust and \r\nvalid SWOT analysis.\r\nFill out the SWOT template in collaboration. Each of the four spaces \r\nrepresents Strengths, Weaknesses (internal), and Opportunities and \r\nThreats (external).\r\nList internal factors first (Strengths and Weaknesses): \r\nStrengths - What do we do better than our competitors? What sets \r\nus apart? What would our competitors point out as our strengths?\r\nWeaknesses - What are we lacking or could improve? What faults \r\nwould our competitors point out? Why are competitors doing better \r\nthan we do?\r\nList external factors second (Opportunities and Threats):\r\nOpportunities \u2013 What external circumstances can benefit you if taken \r\nadvantage of? E.g. new technology, changes in policy, etc. \r\nThreats \u2013 What external forces may negatively affect you? These can \r\nbe shifts in the market, technology, industry standards, etc.",
+    "templateImages": [
+      "/cards/swot-analysis-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EW3WtbnaaD9HqSS8N5DT-2kBli191Ib0rXrHpY-j2b7t4g?e=9b9JoF"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "nabc-pitch",
+    "cardName": "NABC Pitch",
+    "core": "Core",
+    "modesOfDesign": "Realise",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 7
+      }
+    ],
+    "frontImage": "/cards/nabc-pitch-front.jpg",
+    "backImage": "/cards/nabc-pitch-back.jpg",
+    "arIconImage": "/cards/nabc-pitch-ar.jpg",
+    "videoUrl": "https://player.vimeo.com/progressive_redirect/playback/834729646/rendition/1080p/file.mp4?loc=external&signature=0c70128876e0e3844d5b81a3ff834c1a813780418c4c808ca99cf6c5cba8d92f",
+    "frontText": "Explain it to others!\r\nA pitch is a brief presentation of the solution to a \r\nchallenge and is often adapted to the individual \r\nrecipient.\r\nIn the pitch, we describe the need, our approach \r\nto meeting that need, the value we create and \r\nalternative solutions we compete with.\r\nThe pitch must be short enough to be delivered \r\ninformally by the coffee machine, but at the same\r\ntime thoroughly conveys the uniqueness of the \r\nsolution.",
+    "backText": "Start with the most detailed description of your idea - e.g. a value \r\nproposition canvas (see card)\r\nDecide who you want to pitch to - each recipient gets their custom pitch.\r\nAssess which values in your solution are the most important to each \r\nrecipient. This is your starting point.\r\nDescribe in your pitches these four elements:\r\n\u2022 N: The core Needs you have identified\r\n\u2022 A: Your Approach to meeting the need\r\n\u2022 B: The specific Benefits you create with your approach\r\n\u2022 C: The Competing approaches, that your approach differs positively. \r\nRemember, \u201dnot doing anything\u201d is also a competing alternative.\r\nUse this \u201cfill in the blanks\u201d format as scaffolding for your pitch to \r\neach recipient:\r\nFrom [user/situation], we have observed [description of Needs]. \r\nWe address this by [Approach]. \r\nThis provides [user] with [Benefits]. Unlike [Competing alternatives].\r\nTrain your pitch in the team and use it to communicate your solution \r\nto key stakeholders.",
+    "templateImages": [
+      "/cards/nabc-pitch-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/ESt6smBkBphDldK7CSzheocBFMPhwpNHwlGqbXQol_mM2Q?e=qW3fMK"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "idea-affinity-diagram",
+    "cardName": "Idea Affinity Diagram",
+    "core": "Core",
+    "modesOfDesign": "Ideate",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 4
+      }
+    ],
+    "frontImage": "/cards/idea-affinity-diagram-front.jpg",
+    "backImage": "/cards/idea-affinity-diagram-back.jpg",
+    "arIconImage": "/cards/idea-affinity-diagram-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Regroup and fill in the blanks!\r\nCategories and cluster your ideas so you can \r\ngenerate more.\r\nThis method can help you find void areas within \r\nyour solution space or ideas that can be further \r\ndeveloped, or split into multiple ideas or mixed \r\nwith others.\r\nYour ideas can be clustered in many different \r\nways, so feel free to use another tool or even \r\nmake up your own.",
+    "backText": "Collect all your ideas from a previous brainstorming session.\r\nRead out and cluster the ideas placing them on the whiteboard.\r\nWrite titles for each group of ideas.\r\nDraw arrows and circles around subgroups to reveal insights about \r\nhow the ideas link (e.g. similarity, dependency or proximity to each \r\nother).\r\nIdeate around exciting insights revealed in the previous step.\r\nIdentify underdeveloped ideas that could be expanded.\r\nRecord new ideas on post-its and add them to the relevant cluster.",
+    "templateImages": [
+      "/cards/idea-affinity-diagram-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EZEdGWlJT3FJuolA20R2uOkBmEXPgeGCHTpREIpVyYLPMQ?e=jkAFM8"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "idea-association",
+    "cardName": "Idea Association",
+    "core": "Core",
+    "modesOfDesign": "Ideate",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 4
+      }
+    ],
+    "frontImage": "/cards/idea-association-front.jpg",
+    "backImage": "/cards/idea-association-back.jpg",
+    "arIconImage": "/cards/idea-association-ar.jpg",
+    "videoUrl": "https://player.vimeo.com/progressive_redirect/playback/756397405/rendition/1080p/file.mp4?loc=external&signature=1fb022312c21346a334d79a61839062f736713db64c8f2051dd8cd98229ba218",
+    "frontText": "Trigger your creativity!\r\nIdea association is an effective method of idea \r\ngeneration when you lack inspiration or need an \r\ninnovative way of solving a problem.\r\nIt breaks the automatic thought patterns to \r\nsolve the task by finding external inspiration for \r\nnew ideas.\r\nIdea association is also used to make the solution \r\nspace bigger and to find more creative solutions. \r\nUse it when the aim is radical innovation or the \r\nteam is stuck on a solution.",
+    "backText": "Choose an image or object that will steer the direction of the ideas. \r\nChoose either a deliberate direction (e.g. a digital image or object), \r\nor something random. \r\nInsert the image or object into the \u201cInspiration Object\u201d box in the \r\ntemplate.\r\nSet the timer to 3 minutes and encourage everyone in the team to \r\nlist the associations the object provokes in the \u201cAssociations\u201d box. \r\nUse the question: \u201dWhat do you think of when you see the picture?\u201d.\r\nWrite your focus in the \u201cYour Focus\u201d box. It can, for example, be \r\nformulated as a \u201cHow Might We?\u201d question or a \u201cJob-to-be-done.\u201d\r\nBrainstorm ideas for solutions based on the associations and your \r\nfocus for the exercise. Try to use all the associations to generate ideas \r\nthat solve your problem.\r\nShare and discuss the ideas that people came up with in the team.",
+    "templateImages": [
+      "/cards/idea-association-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EWLE_520nVhOjrUqPUTVinwB2vcK2ERgclwQZzQ9CL54kw?e=upNXFm"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "reverse-brainstorming",
+    "cardName": "Reverse Brainstorming",
+    "core": "Core",
+    "modesOfDesign": "Ideate",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 4
+      }
+    ],
+    "frontImage": "/cards/reverse-brainstorming-front.jpg",
+    "backImage": "/cards/reverse-brainstorming-back.jpg",
+    "arIconImage": "/cards/reverse-brainstorming-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Turn it upside down!\r\nReverse brainstorming flips the problem around \r\nand generates ideas that answer the reversed \r\nproblem.\r\nThis method is proper when the team feels they \r\nhave exhausted all the possibilities within their \r\nproblem space.",
+    "backText": "Reverse the problem statement so that you cause the effect you are \r\ntrying to avoid or achieve the opposite effect to the one you intend \r\nto create, e.g. flip \u201dHow might we make the experience of ordering \r\npizza easier for customers\u201d to \u201dHow might we make the experience of \r\nordering pizza more difficult for customers\u201d.\r\nEveryone writes and draws their ideas on Post-its, briefly explains \r\nthem to the group and sticks Post-its on the wall or whiteboard.\r\nGenerate as many ideas as possible.\r\nFlip and apply the generated ideas to solve the initial problem.",
+    "templateImages": [
+      "/cards/reverse-brainstorming-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EUXqkMryPyVGsZNFpenga40BEK9NYTDZrK-1aVHwJvx35A?e=tHPg2e"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "crazy-8s",
+    "cardName": "Crazy 8s",
+    "core": "Core",
+    "modesOfDesign": "Ideate",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 4
+      }
+    ],
+    "frontImage": "/cards/crazy-8s-front.jpg",
+    "backImage": "/cards/crazy-8s-back.jpg",
+    "arIconImage": "/cards/crazy-8s-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Time is ticking!\r\nThis quick exercise will challenge the team to \r\ngenerate eight ideas per person while under \r\nthe clock.\r\nThis method ensures a certain quantity of results.",
+    "backText": "Ensure the problem is well defined, e.g. in a \u201dHow-might-we\u201d format.\r\nGive a sheet of paper to each participant and have them fold it in \r\nhalf three times (so you have eight different sections).\r\nExplain the rules of this exercise to your team by reading the \r\nfollowing steps on this card.\r\nSet the timer for 8 minutes.\r\nEach team member sketches one idea per section. These should be \r\nfast sketches; you have around one minute per idea, so don\u2019t worry \r\nabout making them pretty!\r\nOnce the timer goes off, everyone stops drawing.\r\nShare ideas with team members.\r\nDiscuss similarities/differences and put the best elements together.",
+    "templateImages": [
+      "/cards/crazy-8s-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EQ2aVXzatttJtE8pzvKnStwBPaamthhYqEGcI8NHzs2hWw?e=tLFgnQ"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "structured-brainstorming",
+    "cardName": "Structured Brainstorming",
+    "core": "Core",
+    "modesOfDesign": "Ideate",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 4
+      }
+    ],
+    "frontImage": "/cards/structured-brainstorming-front.jpg",
+    "backImage": "/cards/structured-brainstorming-back.jpg",
+    "arIconImage": "/cards/structured-brainstorming-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Be systematic!\r\nThe team members generate ideas individually and \r\nevaluate and iterate on ideas collectively.\r\nThis method ensures everyone\u2019s participation and \r\nmakes your team more efficient in exploring the \r\nproblem space.\r\nThe anonymity of the ideas encourages shy \r\nmembers and crazy ideas.",
+    "backText": "Ensure the design problem is well defined, e.g. in a \u201dhow-might-we\u201d \r\nformat.\r\nCommunicate the design brief to your gathered team.\r\nChoose one person to be the moderator.\r\nGenerate as many ideas as possible individually, and draw them on \r\npost-its for 15 min.\r\nThe moderator gathers all the post-its, shuffles them and randomly \r\nredistributes them to the participants.\r\nEach participant reads out the ideas given to them while the \r\nmoderator maps out the ideas on the whiteboard and clusters them \r\nbased on recurring topics. \r\nParticipants discuss what they like about the ideas.\r\nEveryone votes on the ideas to find the most interesting proposals.",
+    "templateImages": [
+      "/cards/structured-brainstorming-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/ERjWNOQupyJHsqcar64FG2cBcnL0EfesXZFfr9Xl9HTGLA?e=D5Ehdm"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "remix",
+    "cardName": "Remix",
+    "core": "Core",
+    "modesOfDesign": "Ideate",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 4
+      }
+    ],
+    "frontImage": "/cards/remix-front.jpg",
+    "backImage": "/cards/remix-back.jpg",
+    "arIconImage": "/cards/remix-ar.jpg",
+    "videoUrl": "https://player.vimeo.com/progressive_redirect/playback/845256765/rendition/1080p/file.mp4?loc=external&signature=c61b3e87e26a6b6614642b91af0b7dfc62e9963d181f48ec5a5fbe889d22b87e",
+    "frontText": "Steal with pride! \r\nFind inspiration for idea creation by looking for \r\nexisting solutions within your organisation, other \r\nindustries or sectors.\r\nUse the most relevant elements from these \r\nexisting solutions as inspiration and mix them.\r\nA solution widely known in one field can be a source \r\nof great innovation when used in another context.",
+    "backText": "Choose a direction for your ideation, e.g. in the form of a design \r\nquestion or a mood board.\r\nList (by each team member individually) existing solutions that can \r\npotentially solve the design question or maybe a part of it. Think \r\noutside your field, industry, and business.\r\nCreate a joint list with the top 1-2 solutions from each team \r\nmember\u2019s list.\r\nResearch the solutions more closely and prepare a 3 min \r\nLightning Demo:\r\nHint: to make a long story short, try to explain it like this: \u201dIt\u2019s kind of \r\nlike ... [something we know], but [the important difference]\u201d.\r\nPitch your solutions to each team member and outline the ideas, \r\nelements or principles that seem worthwhile from each solution on a \r\nlarge whiteboard.\r\nCombine whiteboard content to create solution concepts \r\ncollaboratively, guided by your design questions.",
+    "templateImages": [
+      "/cards/remix-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EUSDGoAJL6VAhN7VNAOYFuMB8C9QyaE3dZKC_WaRSijvIw?e=eeberV"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "brainstorming",
+    "cardName": "Brainstorming",
+    "core": "Core",
+    "modesOfDesign": "Ideate",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 4
+      }
+    ],
+    "frontImage": "/cards/brainstorming-front.jpg",
+    "backImage": "/cards/brainstorming-back.jpg",
+    "arIconImage": "/cards/brainstorming-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Let it rain!\r\nBrainstorming is the quintessential method for \r\nideation.\r\nOnce the problem space has been framed, the \r\nteam suggests solutions.\r\nAll points of view and ideas are welcome at this \r\nstage, however crazy or out-there.",
+    "backText": "Ensure the problem is well defined, e.g. in a \u201chow-might-we\u201d design \r\nquestion format (see card).\r\nWrite down the design question on a whiteboard or Post-it and \r\ncommunicate it to your gathered team.\r\nExplain the brainstorming rules to everyone:\r\n\u2022 Don\u2019t judge ideas!\r\n\u2022 Build on others\u2019 ideas!\r\n\u2022 Welcome crazy ideas!\r\n\u2022 Remember the design question or brief.\r\n\u2022 Go for quantity!\r\nEncourage each person to write and draw their ideas on post-its, \r\nbriefly explain them to the group and stick them on the wall or \r\nwhiteboard.\r\nGenerate as many ideas as possible.",
+    "templateImages": [
+      "/cards/brainstorming-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EZwwPHVJjeVKiSZuerfs8DYBXrkxNJUXM1ApYl0zCT2m3w?e=2y8W31"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "idea-funnel",
+    "cardName": "Idea Funnel",
+    "core": "Core",
+    "modesOfDesign": "Ideate",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 4
+      }
+    ],
+    "frontImage": "/cards/idea-funnel-front.jpg",
+    "backImage": "/cards/idea-funnel-back.jpg",
+    "arIconImage": "/cards/idea-funnel-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Evaluate the ideas!\r\nThis method is used to select the best ideas \r\nbased on requirements created from your data. It \r\nassesses ideas together as a team.\r\nOften, a natural dialogue arises among the team \r\nabout the choice of requirements and how the \r\nideas fit. This discussion is at least as important as \r\ndefining requirements themselves.\r\nThis tool is typically used to filter, discuss and \r\nprioritise well-defined ideas from various idea \r\ngeneration activities.",
+    "backText": "Spread out all your data on a wall or a large table. Include all your \r\nideas from the idea creation process. \r\nEstablish 3-5 critical requirements for whether an idea is a good or \r\nbad solution by looking through all your data. Consider user needs, \r\ntechnological feasibility and business viability.\r\nWrite the requirements on the right end of the dashed lines (one per \r\nline) so that the most crucial need (i.e. what must be fulfilled) is at \r\nthe top of the funnel.\r\nWrite one idea on each Post-it, and place them at the top of your \r\n\u201didea funnel\u201d poster.\r\nDiscuss each idea. If it meets the requirements, move it down \r\nthrough the funnel. Ideas that reach the bottom meet all \r\nrequirements and are approved.\r\nDiscuss rejected ideas on top of the funnel. Try to change them to \r\nmeet the requirements. \r\nPark ideas that cannot be evaluated in the parking lot. Later research \r\nto approve or reject them.\r\nSelect and prototype a few approved ideas as different from each \r\nother as possible.",
+    "templateImages": [
+      "/cards/idea-funnel-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EYOHiSc2dAJLsN0ELXjw5vQB_owZ4_POaOu4CWArA9uAlA?e=8jSG6D"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "immersion",
+    "cardName": "Immersion",
+    "core": "Expansion",
+    "modesOfDesign": "Observe",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 2
+      }
+    ],
+    "frontImage": "/cards/immersion-front.jpg",
+    "backImage": "/cards/immersion-back.jpg",
+    "arIconImage": "/cards/immersion-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Live it to see it! \r\nImmerse yourself into a community or someone \r\nelse\u2019s life and uncover an inside view. It could \r\nmean shadowing a person for a while, observing \r\nhow they perform their daily tasks, and even \r\narranging a homestay.\r\nImmersion can be beneficial to understand \r\nsomeone else without making assumptions or \r\nfalling into stereotypes or biases.",
+    "backText": "Evaluate how much involvement could be beneficial and for how \r\nlong. Depending on the project, shadowing someone at work might \r\nbe enough, whereas a homestay could provide valuable insight for \r\nothers.\r\nObserve and record as much as possible once you are in the setting\u2014\r\nrecord observations as objectively as possible. Pure observations are \r\nmore comparable with other team members\u2019 observations, including \r\ndirect quotes, images or video recordings. However, if you have \r\nexciting reflections, record them separately, as they are helpful later.\r\nAsk clarifying questions while you shadow someone about the \r\ntask they are carrying out, why they are doing it that way, how \r\nthey decide to do them, etc. Make them feel comfortable so your \r\npresence\u2019s effect on their behaviour is minimal.\r\nAnalyse and find patterns within your data alongside data from other \r\nteam members\u2019 observations once you return.",
+    "templateImages": [
+      "/cards/immersion-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EUSgYFQYcvJGgQcGTPmJ2jUBUB5sdaoozXdFuiaa0jcJ9w?e=L8IG9D"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "group-interview",
+    "cardName": "Group Interview",
+    "core": "Expansion",
+    "modesOfDesign": "Observe",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 2
+      }
+    ],
+    "frontImage": "/cards/group-interview-front.jpg",
+    "backImage": "/cards/group-interview-back.jpg",
+    "arIconImage": "/cards/group-interview-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Ask around! \r\nGroup interviews or focus groups give deep \r\ninsights about a topic. Not only do you get \r\ndifferent views on one topic, but you can hear \r\nwhere their perspectives differ and what they \r\nagree on.\r\nThe interview subjects can be selected and \r\ngrouped for a particular purpose. If you interview \r\na group of co-workers in a similar role, you will \r\nunderstand their joint experience deeply. In \r\ncontrast, if they work in different roles, you will \r\nuncover deep insights into what is shared or not \r\namong them.\r\nRemember that this method may present complex \r\ngroup dynamics affecting the outcome.",
+    "backText": "Write an interview guide containing the prompts or questions you \r\nwill ask.\r\nCollect relevant test subjects.\r\nDescribe a task the test subjects should try to achieve.\r\nRecord the session on video since non-verbal cues such as facial \r\nexpressions tell much about the users\u2019 feelings.\r\nFacilitate a discussion between the participants with the prompts in \r\nyour interview guide. Start with an open-ended discussion around \r\nthe topic, where you only moderate the debate and ask in-depth \r\nquestions. Then address the themes your team is interested in \r\nexploring from the interview guide. Depending on the tasks and your \r\ngoal, you can include a test of a product.\r\nGather and evaluate all the material together after you have covered \r\nthe topics in your interview guide. Use another method for this, such \r\nas an affinity diagram (see card).",
+    "templateImages": [
+      "/cards/group-interview-template-1.jpg",
+      "/cards/group-interview-template-2.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EZgTcU9F73BJse4XU63KQWQBhhJ9JVo9TNTAuVkLZDCieQ?e=hRAYL7"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "provotyping",
+    "cardName": "Provotyping",
+    "core": "Expansion",
+    "modesOfDesign": "Observe",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 2
+      }
+    ],
+    "frontImage": "/cards/provotyping-front.jpg",
+    "backImage": "/cards/provotyping-back.jpg",
+    "arIconImage": "/cards/provotyping-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Provoke a user! \r\nProvotypes provoke a reaction and deep \r\ndialogue with the test subject \u2013 a user, expert, or \r\nstakeholder in the project.\r\nThese are often extreme solutions that we present \r\nto a person so the test subject briefly thinks it is \r\nthe actual solution.\r\nWe use provotypes to gain insight into attitudes to, \r\ne.g. new technologies and radically new solutions.",
+    "backText": "Prepare a sound recorder and a notebook to record your insights.\r\nDiscuss within the team what you would like the reaction to be - and \r\nwho you would like the response from. Select specific people you \r\nwant to test the provotype with.\r\nMake low-fidelity provotypes (preferably several) that will cause the \r\nuser to respond thoughtfully to the idea - e.g. mock-up of a website, \r\na brochure, or a product description on a web shop.\r\nPlan how to collect data from the provotype test. Using the Rapid \r\nFeedback Matrix is often a good idea (see card). \r\nPresent the provotype to your test subject, e.g. tell them you are \r\nlooking for the best way to implement your new concept.\r\nLet users try some different provotypes and give feedback. When \r\none arouses interest, ask for details - What will it mean for users in \r\ntheir daily life? What benefits do they see? What disadvantages? \r\nRepeatedly ask why to explore the motivation behind it.\r\nCollect feedback in the matrix\u2019s four fields (see Rapid Feedback \r\nMatrix card), and record the interview to get all the details.\r\nFinalise the provotyping tests. Collect test results, e.g., rapid feedback \r\nmatrices, quotes from test subjects and situational images from the \r\ntest site, and find insights that you can use to inspire a good design.",
+    "templateImages": [
+      "/cards/provotyping-template-1.jpg",
+      "/cards/provotyping-template-2.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EfMx5TonV79Mjkp52_z66kIBeDSOmGu0hprKAh6Vmnju3w?e=yONLNJ"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "pest-analysis",
+    "cardName": "Pest Analysis",
+    "core": "Expansion",
+    "modesOfDesign": "Observe",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 2
+      }
+    ],
+    "frontImage": "/cards/pest-analysis-front.jpg",
+    "backImage": "/cards/pest-analysis-back.jpg",
+    "arIconImage": "/cards/pest-analysis-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Look into the system! \r\nPEST stands for political, economic, social and \r\ntechnological. It provides a comprehensive \r\nstructure to analyse the external context around a \r\nsolution or situation.\r\nNo solution is developed in a vacuum. External \r\nforces will affect how a solution is received and \r\nadopted. Understanding these forces allows you to \r\npredict and meet unexpected needs and risks.\r\nPEST analysis can be used to inform long-term \r\nstrategic planning.",
+    "backText": "Explore broadly what to include in your analysis for every step. \r\nConsider the level of potential impact, the time frame (from \r\nimmediate to long term), positive or negative impacts, whether this \r\nimpact will increase or decrease over time, etc.\r\nAnalyse the political environment. Identify policies, guidelines, \r\npolitical relationships, etc., that could impact your solution. Explore \r\nthe local, regional, national and international landscape. Consider, \r\ne.g. elections and national priorities.\r\nAnalyse the economic factors that may affect your venture. E.g. \r\ngeneral aspects such as gross domestic product, unemployment \r\nrate, credit availability and interest rates, inflation, etc. Analyse the \r\neconomic situation of your potential users/customers.\r\nAnalyse the socio-cultural factors that may impact your market. \r\nUnderstand how user needs are shaped and anticipate shifts in \r\nculture and society. Evaluate your user\u2019s attitudes through, e.g. market \r\nand cultural trends, demographic and age distribution, values, etc.\r\nAnalyse the technological impact on your business solution. \r\nConsider what new technologies, products and services are being \r\ndeveloped or introduced to the market, the life-cycle of current \r\ntechnology, what the current technological spending budget is, etc.\r\nThis method can be extended to PESTEL buy adding Environmental \r\nand Legal factors.",
+    "templateImages": [
+      "/cards/pest-analysis-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EQSmk2uRH-RHrPBCQUohNhQBy4uFq4GbHdVM9Xnli0_f4Q?e=pDuyLd"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "culturalprobes",
+    "cardName": "CulturalProbes",
+    "core": "Expansion",
+    "modesOfDesign": "Observe",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 2
+      }
+    ],
+    "frontImage": "/cards/culturalprobes-front.jpg",
+    "backImage": "/cards/culturalprobes-back.jpg",
+    "arIconImage": "/cards/culturalprobes-ar.jpg",
+    "videoUrl": "https://player.vimeo.com/progressive_redirect/playback/834061954/rendition/1080p/file.mp4?loc=external&signature=8270305f666cba6be22d3e9c6e2fa67fe5e79afe77cc42ef04c4e97bcf1af939",
+    "frontText": "Understand deeper! \r\nCultural probes or diary studies help you \r\nunderstand your user\u2019s daily needs, values and \r\nchallenges.\r\nFor extended periods, ask the user to collect their \r\nexperiences using an individual probe or set of \r\nanalogue or digital probes, e.g. a diary, camera, \r\npostcard, map, etc. You will benefit from a deeper \r\nand more unbiased reflection of the user\u2019s daily \r\nlife and self-documentation.\r\nCultural probes collect information without you ",
+    "backText": "Choose what you want to explore: How would you use the \r\ninformation you collect from this method? Would you make, e.g. \r\nempathy maps, user journey maps, personas, etc?\r\nDefine whom you need as research participants and how many of \r\nthem to get meaningful results.\r\nDecide what ways of self-documenting would be most appropriate: \r\ndiaries kept over however long is relevant (a day, a week, or even \r\nyears), taking photos, audio or video recordings of a task performed \r\nand its context with their phone or a disposable camera, mapping \r\nout elements of a system or journeys, entries in a blog?\r\nWrite instructions for the tasks and the timeframe you want \r\nparticipants to complete. Instruct them directly and simply, as you \r\ncannot see how they perform the tasks and correct them. Therefore, \r\ntest your instructions beforehand. Include your contact info in case of \r\nquestions or doubts.\r\nGive/send a cultural probe package with task instructions to \r\nparticipants to perform and self-document. Make it pleasant to carry \r\nout the tasks and interact with the probes. Even consider incentives. \r\nReceive back the probes. Analyse and cluster them to find patterns. \r\nFollow up with interviews to deepen your insights.",
+    "templateImages": [
+      "/cards/culturalprobes-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/ET4v1_WgIilJm7jtYz21hosBqfPBB6Z_5EDphcGr0MMWmg?e=Qhvg6F"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "hot-potato-brainstorming",
+    "cardName": "Hot Potato Brainstorming",
+    "core": "Expansion",
+    "modesOfDesign": "Facilitation",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 0
+      }
+    ],
+    "frontImage": "/cards/hot-potato-brainstorming-front.jpg",
+    "backImage": "/cards/hot-potato-brainstorming-back.jpg",
+    "arIconImage": "/cards/hot-potato-brainstorming-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Get energised!\r\nThis is a version of brainstorming to warm up or \r\nincrease your team\u2019s energy.\r\nThis can also be used as an ice-breaker tool when \r\nthe participants do not know each other, e.g. in \r\nco-creation sessions.\r\nThe team members pass an object amongst each \r\nother and take turns generating ideas.\r\nThis method facilitates the association of ideas \r\nbetween participants in a team.",
+    "backText": "Find a room where all participants can sit in a circle. Bring your team \r\ntogether and communicate the brainstorming topic.\r\nFind an object that can be quickly passed and thrown around. Don\u2019t \r\nuse anything sharp, heavy or valuable!\r\nExplain the exercise (you can read this section of the card).\r\nHave one moderator that records the ideas on paper.\r\nThrow the object to one team member, have them shout an idea, \r\nand pass it on to another person in the circle.\r\nRepeat this, at least until everyone has participated.",
+    "templateImages": [
+      "/cards/hot-potato-brainstorming-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EVc7riGkkRJFhRTAvad5C00BfZEnYGgbHfD91liT2KtAWA?e=bEBcpb"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "problem-mapping",
+    "cardName": "Problem Mapping",
+    "core": "Expansion",
+    "modesOfDesign": "Facilitation",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 0
+      }
+    ],
+    "frontImage": "/cards/problem-mapping-front.jpg",
+    "backImage": "/cards/problem-mapping-back.jpg",
+    "arIconImage": "/cards/problem-mapping-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Put it down on a whiteboard! \r\nCreate a shared space between your team to \r\ncombine all your ideas and insights in real-time.\r\nThis activity can benefit various activities in \r\nfacilitating alignment between participants and \r\ninspiring new associations.\r\nProblem mapping can energise team members \r\nby allowing them to add their input easily and \r\ncreating an opportunity for casual interaction.",
+    "backText": "Choose your tool. It can be a physical whiteboard, flip-over, or a \r\nvirtual whiteboarding tool.\r\nSet the purpose of the session and encourage people to participate in \r\ndrawing the map.\r\nList the actors involved on the left side of your board \u2013 keep it simple, \r\nno more than 8.\r\nWrite a goal on the right that you all agree on \u2013 imagine it as the \r\nending of your story.\r\nDraw boxes and arrows that connects left and right side. Boxes are \r\nconcrete activities or events needed for the actors to deliver the goal. \r\nKeep it simple. No more than 15 boxes with activities.\r\nDiscuss the map in the group and use it e.g., to choose focus points \r\nfor your next steps.",
+    "templateImages": [
+      "/cards/problem-mapping-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EVNzREx4qsVOjcwOlvZNKuwBjSsnpEFb9XAeEmLEwb0FXQ?e=bpkqNq"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "lego-serious-play-2-2",
+    "cardName": "Lego Serious Play 2-2",
+    "core": "Expansion",
+    "modesOfDesign": "Facilitation",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 0
+      }
+    ],
+    "frontImage": "/cards/lego-serious-play-2-2-front.jpg",
+    "backImage": "/cards/lego-serious-play-2-2-back.jpg",
+    "arIconImage": "/cards/lego-serious-play-2-2-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Build an ideal solution to a problem! \r\nLego\u00ae Serious play\u00ae is a framework to work \r\ntogether in building models and get the whole \r\nteam involved in development.\r\nIt\u2019s a group tool to build and create dialogue, \r\nstrategies and new solutions. It teaches introverts \r\nand extroverts\u2014to think with their hands and \r\nbetter communicate their ideas, allowing a greater \r\nflow of information.\r\nThis method helps the group to create 3D \r\nelements together. It fosters creativity and involves \r\nmore significant details.\r\nIt aligns the group by creating a joined focus and a \r\nmemory of what they are building.",
+    "backText": "Remember Lego\u00ae Serious play\u00ae ground rules and build the ideal solution to \r\nyour problem.\r\nExplain that the exercise aims to create a new service or product. It \r\ndoes not exist yet, so let your ideas flow freely and enjoy the process. \r\nEverybody builds 3 solutions in 10 minutes. Use all the bricks you \r\nwant for this.\r\nEach person presents their solution to the group once the time \r\nhas passed.\r\nEach person builds a single joined grand solution in 10 minutes.\r\nEach participant prepares a presentation of their model. The \r\npresentation method is up to them, but they must include their model.\r\nEveryone presents their model in turn to get rapid feedback.\r\nDiscuss the feedback in the group for 5 minutes.\r\nAdd and adjust the model as needed for another 5 minutes",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [],
+    "swapCardId": "lego-serious-play-1-2"
+  },
+  {
+    "id": "ninja",
+    "cardName": "Ninja",
+    "core": "Expansion",
+    "modesOfDesign": "Facilitation",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 0
+      }
+    ],
+    "frontImage": "/cards/ninja-front.jpg",
+    "backImage": "/cards/ninja-back.jpg",
+    "arIconImage": "/cards/ninja-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Stay alert! \r\nEveryone must be placed in a circle and think fast \r\nand strategically in this energiser. You want to be \r\nthe last ninja standing.\r\nWake up and engage your team with this fast\u0002paced exercise.\r\nUse this tool to break the ice or as an energiser.",
+    "backText": "This exercise works best with a group of approx. 10 participants, so \r\ndivide if there are more participants than that. Have everyone sit in \r\na circle.\r\nTo begin, everyone shouts \u201dNinja!\u201d and freezes in a ninja position. \r\nChoose one person to be the first attacker. Ask everyone to \r\nremember who was before and after them, as the turns will go \r\nclockwise, but the game requires people to move around.\r\nThe attacker begins the game. The aim is to be the last ninja standing. \r\nWhen it is your turn, you are only allowed one smooth motion: either \r\nuse it to move away or hit another player\u2019s hand. If hit, you are out of \r\nthe game.\r\nThe attacker\u2019s turn ends when they miss. The person that was on \r\ntheir right then becomes the attacker.\r\nThe last one still in the game wins.",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "lego-serious-play-1-2",
+    "cardName": "Lego Serious Play 1-2",
+    "core": "Expansion",
+    "modesOfDesign": "Facilitation",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 0
+      }
+    ],
+    "frontImage": "/cards/lego-serious-play-1-2-front.jpg",
+    "backImage": "/cards/lego-serious-play-1-2-back.jpg",
+    "arIconImage": "/cards/lego-serious-play-2-2-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Warm up LSP! \r\nLego\u00ae Serious play\u00ae is a framework to work \r\ntogether in building models and get the whole \r\nteam involved in development.\r\nIt\u2019s a group tool to build and create dialogue, \r\nstrategies and new solutions. It teaches introverts \r\nand extroverts to think with their hands and better \r\ncommunicate their ideas, allowing a greater flow \r\nof information.\r\nThis method helps the group to create 3D \r\nelements together. It fosters creativity and involves \r\nmore significant details.\r\nIt aligns the group by creating a joined focus and a \r\nmemory of what they are building.",
+    "backText": "LEGO serous play ground rules: everybody builds and share, every story is \r\nequal, it\u2019s YOUR opinion embedded in the model, explore the model NOT \r\nthe interpretation, elaborate on the underlined story, if you don\u2019t know \r\nwhat you want to build, start building the answer will reveal itself, there is \r\nno RIGHT WAY to build!\r\nWarm up 1: Build Animals\r\nBuild as many animals as you can in 20 minutes. Use all the bricks \r\nyou want. One brick can represent an animal if the participants have \r\na story or thought behind it.\r\nAfter the building session, every participant must present their \r\nanimals and what they can do or the thought behind them. Have a \r\nprize for the winner \u2013 maybe something that can be shared.\r\nWarm up 2: Build a Duck vs Draw a Duck \r\nHalf of the group gets handed Lego bricks to build a duck. The \r\nother half is instructed to draw LEGO ducks (have a model of a duck \r\nprepared for inspiration).\r\nHave them build as many versions as they can think of. Every time \r\nthey have a new model, they must add a line on a piece of paper to \r\nkeep count. Instruct the building group that it\u2019s a new duck every \r\ntime they move a brick or add it to an already-made model.\r\nNote: It is faster to modify a built model than a drawing, making it faster \r\n(often by a factor of 7) to produce new ideas together.",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [],
+    "swapCardId": "lego-serious-play-2-2"
+  },
+  {
+    "id": "brain-walking",
+    "cardName": "Brain Walking",
+    "core": "Expansion",
+    "modesOfDesign": "Facilitation",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 0
+      }
+    ],
+    "frontImage": "/cards/brain-walking-front.jpg",
+    "backImage": "/cards/brain-walking-back.jpg",
+    "arIconImage": "/cards/brain-walking-ar.png",
+    "videoUrl": "",
+    "frontText": "Create a common outcome! \r\nBrainwalking is a collaborative brainstorming \r\nmethod that gets people moving and thinking \r\ncreatively. Participants move around the room and \r\ncollaborate by building on others\u2019 ideas.\r\nEncourage participation of all team members in \r\none outcome to reinforce a sense of cohesion and \r\nto allow participants to have fun together. It helps \r\nenergise the group and makes them more open to \r\nsharing their ideas.\r\nThis can be used as a productive brainstorming \r\nmethod and a tool to align participants, energise\nthe room and break the ice.",
+    "backText": "Everyone illustrates an idea by writing, drawing on flip-chart paper, \r\nand hanging it on a wall. It is done individually or in groups.\r\nIn 1-2 min rounds, participants rotate to the following flip-chart \r\npaper and further develop the other person\u2019s idea or develop new \r\nideas based on it.\r\nThe exercise ends when everyone has made a complete circle \r\naround all the flip-chart papers. You can then discuss the outcomes \r\nas a team.",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "focus-group-test",
+    "cardName": "Focus Group Test",
+    "core": "Expansion",
+    "modesOfDesign": "Test",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 6
+      }
+    ],
+    "frontImage": "/cards/focus-group-test-front.jpg",
+    "backImage": "/cards/focus-group-test-back.jpg",
+    "arIconImage": "/cards/focus-group-test-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Share with the group!\r\nThis method is used to get detailed feedback on \r\na mature prototype from user segments we are \r\nparticularly interested in.\r\nThe solution is presented to a small group \r\nrepresenting the central target group.\r\nThe focus group test helps us determine how much \r\nvalue the individual features in the product create \r\nfor the users in different segments. We discover \r\nhow to adapt the final but significant details before \r\na possible product launch.",
+    "backText": "Build a high-fidelity prototype of the solution, e.g. minimum viable \r\nproduct or early software. All the features you want to test are \r\nincluded. Ideally, you want a prototype that is so mature that it could \r\nbe launched but only includes the most critical functions.\r\nFill out test cards (see card) with the hypotheses you are testing and \r\ndecide how to gather information, i.e. what questions will answer \r\nthose hypotheses.\r\nSegment your test subjects. E.g., first movers and early followers who \r\nwill be the first to embrace the solution and some who represent \r\nthe vast majority, i.e. the early and late majority. Ensure a good \r\ndistribution of the segments and formulate tasks for each. \r\nPresent the prototypes and the task description to your test subject \r\nwithout additional help and let them use your solution.\r\nFacilitate discussions with and between the focus group members \r\nabout the tasks and what problems they faced. Ask in-depth \r\nquestions and ensure to address the themes and questions your \r\nteam wrote on the test cards.\r\nRecord the session on video as non-verbal cues such as facial \r\nexpressions tell much about the users\u2019 feelings.\r\nEvaluate the material from the finished tests one task at a time and \r\nimprove your design.",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "action-test",
+    "cardName": "Action Test",
+    "core": "Expansion",
+    "modesOfDesign": "Test",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 6
+      }
+    ],
+    "frontImage": "/cards/action-test-front.jpg",
+    "backImage": "/cards/action-test-back.jpg",
+    "arIconImage": "/cards/action-test-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Put your action where your mouth is!\r\nThis method is typically used to assess how much \r\nusers like a solution and whether it makes sense to \r\nproceed with it.\r\nAn action test determines if a solution provides \r\nenough value to the user for them to invest \r\ntime or money in it. e.g., buying the product, \r\ndownloading the app, or signing up for something \r\nthat takes time.\r\nThis test helps quantify how much the user likes \r\nthe solution and provides insight into people\u2019s \r\nwillingness to pay.",
+    "backText": "Build a medium to high-fidelity prototype of the solution you want \r\nto test, e.g. fake door, relabel, brochure, or a physical model. Test \r\nsubjects should believe your solution exists when they act., i.e., \r\npurchase, download or register.\r\nFind a test location (physical or digital) with numerous relevant users \r\nwhere the prototype appears credible and where you can monitor \r\nthe decisions your test subjects make.\r\nPresent the prototypes to your users, or let them present \r\nthemselves. Assign different costs to your test subjects to identify \r\ntheir willingness to pay. E.g. give them different prices or ask for \r\ndifferent amounts of time commitment.\r\nRecord as much data as possible when the test subject takes action, \r\ne.g., video or screen recording, to capture factors that affect the test \r\nsubjects\u2019 decisions.\r\nFinalise the tests by analysing your material, e.g. user quotes and \r\nsituational images from the test site and, most importantly, the \r\ndata on willingness to take action. Use this to inform transactional \r\nfeatures, e.g. target price, time commitment, and value proposition.",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [
+      "https://i.imgur.com/FUeaEBt.jpeg",
+      "https://i.imgur.com/wCMQe0L.jpeg",
+      "https://i.imgur.com/aKmZBfk.jpeg",
+      "https://i.imgur.com/HTEUgCe.jpeg",
+      "https://i.imgur.com/SFzLnEN.jpeg",
+      "https://i.imgur.com/UhBq0v2.jpeg",
+      "https://i.imgur.com/mq3mV3E.jpeg",
+      "https://i.imgur.com/TMGjOJG.jpeg",
+      "https://i.imgur.com/E2Mg6yX.jpeg",
+      "https://i.imgur.com/mNAh0n4.jpeg"
+    ],
+    "swapCardId": null
+  },
+  {
+    "id": "100-days-living-lab",
+    "cardName": "100 Days Living Lab",
+    "core": "Expansion",
+    "modesOfDesign": "Test",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 6
+      }
+    ],
+    "frontImage": "/cards/100-days-living-lab-front.jpg",
+    "backImage": "/cards/100-days-living-lab-back.jpg",
+    "arIconImage": "/cards/100-days-living-lab-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Time will tell!\r\nTesting in a living lab and a 100-day test are similar \r\nmethods. In both, a prototype is tested over a long \r\nperiod in an environment as similar as possible to \r\nthe one in which the final product will be used. \r\nThis method tests whether the solution creates \r\nthe value we expect for the ones we expect. It \r\nuncovers what users and your business gain using \r\nor owning your solution.\r\nTesting like this can clarify technical assumptions \r\n\u2013 e.g., product robustness in real-use situations, \r\nover a period of time.",
+    "backText": "Build a high-fidelity prototype of the solution, e.g. minimum viable \r\nproduct or early software. All the features you want to test need to \r\nbe included.\r\nClarify what you want to learn from the test \u2013 use, e.g. test cards or \r\nassumption dump (see cards). \r\nSegment your test subjects. E.g., first movers and early followers who \r\nwill be the first to embrace the solution and some who represent \r\nthe vast majority, i.e. the early and late majority. Ensure a good \r\ndistribution of the segments and formulate tasks for each. \r\nPrepare your data collection approach. You need qualitative and \r\nquantitative data with minimal interference from the test subject. \r\nTechniques include text message questions, online surveys, \r\nautomated data collection, observations, and interviews (see cards).\r\nPresent the prototype and task description to your users. Also, \r\ninstruct them on how you will get data from them throughout and \r\nafter the test. \r\nEvaluate all gathered material after the test. Summarise quantitative \r\ndata in graphs and figures. Compile qualitative data as aggregated \r\ninsights and supporting images. Organise a learning workshop with \r\nyour team to elicit learnings and refine the design.",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "dark-horse-testing",
+    "cardName": "Dark Horse Testing",
+    "core": "Expansion",
+    "modesOfDesign": "Test",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 6
+      }
+    ],
+    "frontImage": "/cards/dark-horse-testing-front.jpg",
+    "backImage": "/cards/dark-horse-testing-back.jpg",
+    "arIconImage": "/cards/dark-horse-testing-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Test the \u201cout-there\u201d solution!\r\nThis method is used early or in the middle of a \r\nproject to ensure that we search the solution \r\nspace broadly. We should not sacrifice radically \r\nnew solutions in favour of the obvious ones.\r\nThe goal of the project can often be unclear. \r\nTesting one prototype can help narrow the goal. \r\nBut, By testing both the obvious and the far-from\u0002obvious prototypes, we illuminate a much larger \r\nsolution space. \r\nWe do dark-horse testing by consciously testing \r\nthe opposite of the solution we all agree is the safe \r\nchoice \u2013 the consensus solution.",
+    "backText": "Start by making a fast and cheap prototype of one of your most \r\nradical ideas, e.g. in the form of wireframes, prototyping on paper, \r\nbrochures, or storyboards. Also, prototype the consensus idea you \r\nwant to challenge with the Dark Horse.\r\nCollect your entire team and relevant test subjects without \r\noverwhelming the test subjects.\r\nPresent the prototype to your test subject and let them use it. \r\nAfterwards, you test your consensus idea with the user and ask them \r\nto compare them.\r\nRecord as much as possible through video and pictures and use the \r\nRapid Feedback Matrix (see card) to structure the insights. Emphasise \r\nthe reflection fields, i.e., what questions came up during the test, and \r\nwhich ideas for solutions and features emerged. \r\nFinalise the test by using your new insights to challenge and redesign \r\nyour consensus idea in the team. Use the recordings to remind you \r\nabout the inspirational details that the Dark Horse brought to light. ",
+    "templateImages": [
+      "/cards/dark-horse-testing-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EXR_Pj8UxApGqmp5dVXA-IEB4pbB5GPfIKMwnQM4Tff_kQ?e=GGPcPV"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "house-of-quality",
+    "cardName": "House Of Quality",
+    "core": "Expansion",
+    "modesOfDesign": "Define",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 3
+      }
+    ],
+    "frontImage": "/cards/house-of-quality-front.jpg",
+    "backImage": "/cards/house-of-quality-back.jpg",
+    "arIconImage": "/cards/house-of-quality-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Start with the foundations! \r\nThe result of a house of quality is a common \r\nvisualisation that shows the considerations of the \r\nentire project team. In the light of user/customer \r\nrequirements.\r\nThe tool integrates customer needs and concerns, \r\ntechnical requirements, how the solution \r\ncompares with those of competitors and trade-offs \r\nbetween these.\r\nThis method uses a set of helps you prioritise \r\nrequirements and considerations while \r\nmaintaining a cohesive common plan and design.",
+    "backText": "Collect existing user insights gathered through focus groups, \r\nprovotyping, testing etc.\r\nElicit Customer Attributes (CAs). These are phrases customers use \r\nto describe the product, e.g. \u201ceasy to open\u201c. Customers may not \r\nnecessarily be just end-users, so consider, e.g. sellers, regulators, etc.\r\nBundle CAs representing user concerns in groups. It is often beneficial \r\nto agree on these with the entire project team.\r\nPrioritise CAs and give a \u201crelative importance\u201c score. You can do this in \r\nseveral ways, e.g. based on quantitative survey data.\r\nEvaluate each CA on customer perception of your product\u2019s \r\nperformance against your competitors.\r\nSort out engineering characteristics (ECs). These technical factors, e.g. \r\n\u201cseal resistance\u201d, are derived from the CAs.\r\nFill out the \u201crelationship matrix\u201d indicating how much each EC affects \r\neach CA. You can define the relevant scale. Remember to differentiate \r\nbetween negative and positive impacts.\r\nEstablish objective measures for each EC in the appropriate units for \r\nyour product and competing ones. You can also set target values.\r\nUse the roof matrix to display trade-offs and positive and negative \r\ninteractions between ECs, e.g. increasing size negatively affects weight.",
+    "templateImages": [
+      "/cards/house-of-quality-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/ESttq9IP4YlMuwyIk8ibmrEBb_BsuT5JI28QHAifsrwRFw?e=cbQpPF"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "empathy-map",
+    "cardName": "Empathy Map",
+    "core": "Expansion",
+    "modesOfDesign": "Define",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 3
+      }
+    ],
+    "frontImage": "/cards/empathy-map-front.jpg",
+    "backImage": "/cards/empathy-map-back.jpg",
+    "arIconImage": "/cards/empathy-map-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Saying, doing, thinking, feeling! \r\nEmpathy map allows you to collect insights about \r\nthe user\u2019s behaviours and attitudes in one place so \r\nthe team has a common understanding.\r\nYour team will build empathy with your users \r\nthrough creating empathy maps.\r\nEmpathy map breaks down what the user says, \r\ndoes, thinks, and feels. Here you can use insights \r\nfrom other methods, such as interviews for what \r\nthey say, observation for what they do, etc.",
+    "backText": "We recommend that you use a persona at the centre of this method. \r\nCheck out the persona method card if you still need to make one.\r\nChoose a persona for which you want to create an empathy map.\r\nPlace them at the centre of the page.\r\nLook at four quadrants in the template. Each quadrant represents \r\nwhat the user says, thinks, does and feels.\r\nList what the user says. Ideally, use direct quotes from interviews, \r\nfocus groups, tests such as think-out-loud tests, etc.\r\nWrite what the user thinks. Try to understand and share the user\u2019s \r\nfeelings behind their words. Why were they saying it, e.g. was it to be \r\npolite, because they were unsure, ashamed, afraid?\r\nDraw/Describe the user\u2019s actions and behaviours. What do they do, \r\nand how? Use insights from observation, cultural probes, etc.\r\nDescribe the user\u2019s feelings. List positive and negative emotions and \r\nbriefly describe what causes them.\r\nFind the exciting insights in the interaction among the empathy map\u2019s \r\nquadrants: Are they overlapping? Do they contradict one another? \r\nIf one of the quadrants needs more data, you might want to go back and \r\nresearch further through the appropriate method.",
+    "templateImages": [
+      "/cards/empathy-map-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/ETo6oYjPpOxFgkHJaRVQhIcBOd-g1gm33tKPRtVs640MwQ?e=MJawhM"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "mood-boards",
+    "cardName": "Mood Boards",
+    "core": "Expansion",
+    "modesOfDesign": "Define",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 3
+      }
+    ],
+    "frontImage": "/cards/mood-boards-front.jpg",
+    "backImage": "/cards/mood-boards-back.jpg",
+    "arIconImage": "/cards/mood-boards-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Find a visual direction \r\nMood boards create visual inspiration and \r\ndirection for later developing ideas and concepts.\r\nMood boards increase an overall understanding \r\nand perception of users\u2019 desires towards the \r\nsolution. They capture what is challenging \r\nto express in words, such as aesthetics and \r\natmosphere.\r\nMood boards can be used as a powerful method \r\nto convey a desired design direction without the \r\nrecipient getting lost in the details and, therefore, \r\nrelate more freely to the visual vision of the final \r\nsolution.",
+    "backText": "Find a variety of materials that you can use for your mood boards. \r\nThese may be newspapers, magazines, online images (printed), \r\ndrawings/sketches, paints/colours and cutouts of words/phrases. \r\nFind glue, markers, tape, and large posters (e.g., flip-overs).\r\nSketch or write down keywords matching the data you collected on \r\nusers\u2019 desires and needs.\r\nFind elements in your material that best convey the users\u2019 wishes. \r\nTry to communicate aesthetics and other desires. Attach items to the \r\nposter or flip-over with tape so you can move them around.\r\nPresent your mood boards to the group. Use various mood boards to \r\nagree on the cores of the user\u2019s desires and needs.\r\nTake a picture of each mood board.\r\nCreate a common mood board by combining items from the \r\nindividual mood boards. More visuals can be added as this part of the \r\nprocess is often the start of a new common visual understanding of \r\nthe concept\u2019s direction.\r\nPresent the overall mood board in a short pitch to users or use it \r\ninternally to communicate users\u2019 desires and needs visually.",
+    "templateImages": [
+      "/cards/mood-boards-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EUvx8Ti3NxpMg9OjQdXMRI8B5eNaOvvKefuWmqylrguanA?e=rD4mrb"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "stakeholder-map",
+    "cardName": "Stakeholder Map",
+    "core": "Expansion",
+    "modesOfDesign": "Define",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 3
+      }
+    ],
+    "frontImage": "/cards/stakeholder-map-front.jpg",
+    "backImage": "/cards/stakeholder-map-back.jpg",
+    "arIconImage": "/cards/stakeholder-map-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Visualise who is involved! \r\nA stakeholder map can be a great way to visualise \r\nkey stakeholders involved in the project and the \r\nrelationships between them.\r\nThe resulting visualisation can be used as a \r\nreference for the team and updated as you \r\nuncover new information. It can inspire new \r\nopportunities or help gather complex information.\r\nYou can show the relationships between the \r\nstakeholders in terms of financial, material, \r\nand information flows, among other relevant \r\ninformation.",
+    "backText": "Collect all the insights you need to create the map: who is involved \r\nand what they provide to each other. Consider co-creating this map \r\nwith someone familiar with the project or problem and the flow \r\nbetween the stakeholders involved.\r\nPrepare a whiteboard to create and iterate the map quickly.\r\nList all the relevant stakeholders on individual post-its.\r\nPlace key stakeholders on the matrix described in our template. The \r\ntwo axes will help you organise the stakeholders by influence and \r\ninterest levels.\r\nDraw connections between them that describe financial, material \r\nand information flow amongst them. Add any other flows relevant to \r\nyour project or problem to complete the map.",
+    "templateImages": [
+      "/cards/stakeholder-map-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EUmujQ3o7olPqDwNAwemyI4BCuLUek41nmVUCpGVqieMpg?e=P24PmQ"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "fishbone-diagram",
+    "cardName": "Fishbone Diagram",
+    "core": "Expansion",
+    "modesOfDesign": "Define",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 3
+      }
+    ],
+    "frontImage": "/cards/fishbone-diagram-front.jpg",
+    "backImage": "/cards/fishbone-diagram-back.jpg",
+    "arIconImage": "/cards/fishbone-diagram-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Dig a little deeper! \r\nThe fishbone diagram is a helpful method to \r\nanalyse the root causes of a given challenge.\r\nThe outcome of this method is a visual \r\nrepresentation of cause and effect consisting \r\nof a se of factors branching off from the root, \r\nappearing like a fishbone.",
+    "backText": "Identify an appropriate problem statement (i.e. the \u201ceffect\u201d) and write \r\nit down at the head of the fish within the diagram (see template).\r\nFind the main categories of underlying factors that may cause \r\nthe \u201ceffect\u201d. Often the following categories are helpful: materials, \r\nequipment, methods, measurement, environment, and people.\r\nUncover why this \u201ceffect\u201d happens and write them as subcategories \r\nof the main branches. Some may belong to multiple categories.\r\nAsk why repeatedly to break down causes and sub-causes further.",
+    "templateImages": [
+      "/cards/fishbone-diagram-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/ESzeLMf_Tl1FhqwaYRGyldYBBmpMXQWkZfXv-g2skPxR9g?e=OrFTID"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "service-pilot",
+    "cardName": "Service Pilot",
+    "core": "Expansion",
+    "modesOfDesign": "Prototype",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 5
+      }
+    ],
+    "frontImage": "/cards/service-pilot-front.jpg",
+    "backImage": "/cards/service-pilot-back.jpg",
+    "arIconImage": "/cards/service-pilot-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Test the waters! \r\nA service pilot is a prototype of a service or a \r\npart of a service. It allows you to test your design \r\nchoices before fully delivering it.\r\nIn a service pilot, you attempt to replicate as \r\nmany of the service\u2019s touchpoints as possible and \r\nrelevant to the highest level of fidelity.",
+    "backText": "Collect any lower-fidelity prototypes or concept specifications that \r\nyou may have of the service. \r\nExamine the service you have conceptualised, ideally as a service \r\nblueprint.\r\nSelect the touchpoints you want to get feedback on and those \r\nessential to testing other steps in the process.\r\nConsider replacing some components with alternatives requiring \r\nfewer resources. For example, you may want to try lower-fidelity \r\nprototypes of the products that the user interacts with throughout \r\nthe service, such as an app, a device, etc.\r\nLaunch the pilot for a limited time at the location and with the user \r\ntype as close to the final ones as possible.\r\nGather valuable insights and use them to improve your design.",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "minimum-viable-product",
+    "cardName": "Minimum Viable Product",
+    "core": "Expansion",
+    "modesOfDesign": "Prototype",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 5
+      }
+    ],
+    "frontImage": "/cards/minimum-viable-product-front.jpg",
+    "backImage": "/cards/minimum-viable-product-back.jpg",
+    "arIconImage": "/cards/minimum-viable-product-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Do the bare minimum! \r\nA minimum viable product (MVP) is a concept \r\nthat originated in Lean Start-Up. The idea is to \r\ncreate the product version with only the necessary \r\nfeatures to measure customer reactions. MVP has \r\nthe core functionality, which can be expanded later.\r\nYou can test the customer\u2019s actual behaviour \r\ntowards the product with an MVP, with minimal \r\ninvestment of money and time.\r\nWhat an MVP must include will depend on your \r\nconcept, resources, etc. Ask yourself what you can \r\nremove while keeping the core functiona",
+    "backText": "Gather relevant documentation from your design research, e.g. user \r\njourneys, jobs to be done, pains and gains, etc.\r\nPlan a Minimum Viable Product (MVP) carefully to avoid wasting \r\nresources: Analyse all your design research and test results to elicit \r\nthe functionality valuable to the users and your business.\r\nDecide how you will measure the performance of your MVP when \r\ndeployed, and use this to prioritise functionality. \r\n(see the Test Cards card)\r\nList and prioritise all the features needed for the essential \r\nfunctionality. A popular way to map them is a 2x2 matrix based on \r\nimpact and an urgency axis. Include high-impact and high-urgency \r\nfeatures. Include core features for the business model. Discard \r\nfeatures you can add later. Iterate until the number of features can be \r\nachieved within your time and budget.\r\nBuild the MVP by organising features into Agile Sprints. Our Agile \r\nPlanning card in the \u201cUnderstand\u201c mode can help you do this.",
+    "templateImages": [
+      "/cards/minimum-viable-product-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EZMTLSomAttLmxh0wzsd5NgBVvDbqDXzEk7CWmgmiCZG-g?e=1WrjN0"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "video-prototype",
+    "cardName": "Video Prototype",
+    "core": "Expansion",
+    "modesOfDesign": "Prototype",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 5
+      }
+    ],
+    "frontImage": "/cards/video-prototype-front.jpg",
+    "backImage": "/cards/video-prototype-back.jpg",
+    "arIconImage": "/cards/video-prototype-ar.jpg",
+    "videoUrl": "",
+    "frontText": "If a picture is worth a thousand words, then a \r\nvideo is worth a million! \r\nVideo prototypes are compelling to get customer \r\nfeedback when you want the focus on the concept \r\nor look rather than the specific functionality.\r\nIt is an excellent prototyping method for service \r\nconcepts.\r\nIt is a fast and cheap prototype to make and test.\r\nMake the video as beautiful as possible. The \r\nfeedback and all user attention should be on the \r\nconcept, not the video itself.",
+    "backText": "Find the equipment you need to record and edit video (e.g. camera, \r\nvideo editing software).\r\nDraw a storyboard for the video: choose a style and what aspects \r\nof the concept or idea you want to portray. Use our storyboard \r\ntemplate here.\r\nList what shots you want to film and write a final script if necessary. \r\nList resources you need: people, permits, cameras, etc.\r\nShoot the video. Ensure you have: the equipment, storyboard, list of \r\nshots, and script.\r\nEdit all your collected footage to create the final video. Add text and \r\neffects to enhance your message.\r\nShow your video prototype to gather feedback or illustrate the \r\nconcept to potential customers, users, investors or partners.",
+    "templateImages": [],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EaREGIQoDp5OjmHY5yar1k8BzOzQHTkKiV04PaLJoadWGA?e=PlOYfO"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "service-blueprint",
+    "cardName": "Service Blueprint",
+    "core": "Expansion",
+    "modesOfDesign": "Prototype",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 5
+      }
+    ],
+    "frontImage": "/cards/service-blueprint-front.jpg",
+    "backImage": "/cards/service-blueprint-back.jpg",
+    "arIconImage": "/cards/service-blueprint-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Visualise your service! \r\nA service blueprint visualises a service\u2019s \r\ncomponents: people, processes, artefacts, etc.\r\nSimilarly to a user journey, it maps out the \r\ntouchpoints between the service and the \r\ncustomer. However, service blueprints display the \r\ncomponents that help deliver the service but are \r\nhidden from the customer.\r\nA complete picture of the process allows you \r\nto find missing elements, reduce redundancies, \r\ncreate new bridges between processes or people \r\nor identify opportunities to improve the service.",
+    "backText": "Bring a user journey to the workshop. It is a good starting point for a \r\nservice blueprint.\r\nDraw a diagram of the customer\u2019s steps and decisions to achieve a \r\ngoal. Map it from the beginning to the end of the service process. If \r\nwe, e.g. create a pizza delivery service, a step would be calling the \r\nstore to order a pizza.\r\nAdd activities visible to the customer: interactions between the \r\ncustomer and a person or an artefact (e.g., computer, app, ATM). In \r\nour example, you would add: employee answers the phone and takes \r\nthe pizza order.\r\nMap backstage actions an employee performs that support the \r\nvisible ones. In our example, this could be an employee entering the \r\npizza order into a computer system.\r\nAdd process steps that must occur for the service to succeed. E.g., \r\ncredit card validation can be added to our pizza service example.\r\nAdd any metrics that detail relevant information, such as user \r\nfeedback in the form of emotions at each stage, the time each step \r\ntakes or their cost. Use these to make informed changes to your \r\nservice design.",
+    "templateImages": [
+      "/cards/service-blueprint-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EcJSIgA5sJxDro2OxqpLtKsBkVYXFZKBtX44nD5oSnvm_w?e=f2t78i"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "project-focus",
+    "cardName": "Project Focus",
+    "core": "Expansion",
+    "modesOfDesign": "Understand",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 1
+      }
+    ],
+    "frontImage": "/cards/project-focus-front.jpg",
+    "backImage": "/cards/project-focus-back.jpg",
+    "arIconImage": "/cards/project-focus-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Find what you need! \r\nBy going through the process defined in this \r\nmethodology, you will be able to determine where \r\nyou are, what you want to achieve and the steps to \r\nget there.\r\nGathering all this information in a poster form will \r\ncreate a common frame for your team to reference \r\nand update.",
+    "backText": "Participants fill out the template together, as a poster. Start with \r\ndescribing the challenge - is the project a re-design or new design, \r\nwho are the target groups, and what facts support the project?\r\nDefine your goal - What level of innovation are you aiming for, what \r\nare your concrete sub-goals, and what value do you expect to create?\r\nDescribe your Design Vision by gathering your challenge and goal \r\ninto a memorable map, narrative or pitch.\r\nDescribe the team - what are each member\u2019s superpowers and \r\nkryptonite? Consider both professional and personal aspects.\r\nDescribe your current situation - What are your existing knowledge \r\nand assumptions about the challenge?\r\nCompare the team and situation (left column) with the challenge \r\nand goal you defined (right column) to determine the Knowledge \r\nGap. Be as specific as possible but realise that you may need more \r\ninformation to engage precisely with some gaps.\r\nFinally, give your project a catchy title.\r\nUpdate this template regularly as the team goes through the design \r\nprocess to reflect the evolution of the project.",
+    "templateImages": [
+      "/cards/project-focus-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/ER4Ue_7hODREnYd2kIUBtH8BENoGUzaLHviyeFULNpE0Jw?e=jesYzd"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "agile-planning",
+    "cardName": "Agile Planning",
+    "core": "Expansion",
+    "modesOfDesign": "Understand",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 1
+      }
+    ],
+    "frontImage": "/cards/agile-planning-front.jpg",
+    "backImage": "/cards/agile-planning-back.jpg",
+    "arIconImage": "/cards/agile-planning-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Plan flexibly! \r\nAgile processes organise tasks within time-bound \r\nself-contained sprints, by the end of which \r\nfeatures are ready to be rolled out and tested.\r\nAgile planning is based on user stories which \r\nare assigned to sprints. Tasks are not defined by \r\ntechnical specifications but rather by users\u2019 needs. \r\nUser stories can be grouped to form an epic.\r\nAn agile plan is flexible to constant iterations. \r\nCompleted sprints allow learning and help plan the \r\ntasks and structure the next ones.",
+    "backText": "List the user stories or epics to be solved for the release.\r\nScore them in terms of priority and size. Discuss any discrepancies \r\nand agree on a final assessment of these criteria.\r\nCreate a sprint and assign stories to it. Decide on the length of sprints \r\nfor your team. They usually take 1-4 weeks. Once one sprint is full, \r\ncreate another one and repeat this until all user stories are placed.\r\nAt the start of every sprint, have a meeting to discuss learnings from \r\nprevious sprints and to iterate the plan accordingly. Changes can \r\ninclude timings, prioritisation, new features, etc. Use this meeting to \r\ndetail user stories further, break these down into specific tasks, and \r\nassign these to particular team members.\r\nPlace the post-its describing user stories, tasks and whom they are \r\nassigned to on a Kanban board that is visible to everyone (physically \r\nor digitally). The tasks should initially be under the \u201cbacklog\u201d column \r\non the left. As items get tackled, the team should move them across \r\nthe board through \u201cto do\u201d and \u201cin progress\u201c until they are placed \r\nunder \u201ccompleted\u201c. You can personalise the columns of the board.\r\nHold a stand-up meeting at the start of every day where everyone \r\nshares their progress from the previous day, what they will tackle on \r\nthat day and mention any obstacles they have encountered. These \r\nshould take up to 15 minutes.",
+    "templateImages": [
+      "/cards/agile-planning-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/Eb8a2p7axbhFvNLWYh2UQ74BpFMEAr3q6NadY2H0FpEpRQ?e=gZRtIr"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "napkin-exercise",
+    "cardName": "Napkin Exercise",
+    "core": "Expansion",
+    "modesOfDesign": "Understand",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 1
+      }
+    ],
+    "frontImage": "/cards/napkin-exercise-front.jpg",
+    "backImage": "/cards/napkin-exercise-back.jpg",
+    "arIconImage": "/cards/napkin-exercise-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Be concise and visualise! \r\nThe story behind \u201cThe Back of a Napkin\u201d is that you \r\nare at a dinner meeting. Suddenly, you discover \r\nthat person sitting next to you has the capacity and \r\ninterest to help you fund a big new solution you are \r\nworking on. But you have around two minutes to \r\nget them on board. All you have at hand to explain \r\nyour idea is a dinner napkin and a pencil.\r\nThis technique shows that thinking in pictures can \r\nhelp anyone to get new ideas and to communicate \r\nthem in simple lines.\r\nThis can be used as an alignment tool for the team.",
+    "backText": "The team uses folded pieces of A4 paper (or an A5 sheet) as napkins. You \r\ncan use simple sketching techniques such as stick figures, squares, circles, \r\ntriangles, etc. You can use a few words, but words cannot be the primary \r\ncommunication tool on the napkin.\r\nLook at examples of both of these exercises in the templates.\r\nNapkin 1: The Problem Napkin\r\nEach person must take 10 minutes to draw their perception of the \r\nproblem on their \u201cnapkin\u201d. It includes the who, how much and why \r\nof the problem at hand.\r\nUse 10 min for each member to present their napkin to the group.\r\nCreate a common group napkin with the collected inspiration from \r\nall the napkins.\r\nNapkin 2: The Solution Napkin \r\nEach person must take 10 min to draw their solution to the problem \r\non their \u201cnapkin\u201d. It includes answering at least 3 questions about \r\nwho or what, where, when and how.\r\nUse 10 min for each member to present their napkin to the group.\r\nCreate a common group napkin with the collected inspiration from \r\nall the napkins.",
+    "templateImages": [
+      "/cards/napkin-exercise-template-1.jpg",
+      "/cards/napkin-exercise-template-2.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EdbjMKtxKtVEjJZ7J7rGBugBE2z9UCsKwAdf6XA-1u5EcA?e=GKnE69"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "user-story-mapping",
+    "cardName": "User-Story Mapping",
+    "core": "Expansion",
+    "modesOfDesign": "Realise",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 7
+      }
+    ],
+    "frontImage": "/cards/user-story-mapping-front.jpg",
+    "backImage": "/cards/user-story-mapping-back.jpg",
+    "arIconImage": "/cards/user-story-mapping-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Voice of the customer! \r\nCommunicate what you want to be developed \r\nin the customer\u2019s voice instead of with detailed \r\nspecifications \u2013 what do you want to enable the \r\nuser to do? \r\nThe user story map consists of your entire solution, \r\nbroken down into short and concrete user stories. \r\nUse the user story map to continuously prioritise \r\nwhich features to develop next and what to \r\ninclude in your product launches. ",
+    "backText": "Formulate a high-level user story for each key feature your final \r\nsolution should include and place them under a phase or process \r\nstep in the user story map template. A user story typically follows \r\nthis format:\r\n\u201cAs a [user persona], I want [action or feature] so that [benefit or goal].\u201d \r\nE.g., \u201cAs a website visitor, I want to easily find pricing information so \r\nthat I can make an informed purchasing decision.\u201d\r\nReview your high-level user story map with the development/project \r\nteam. Together you will now break all your high-level user stories into \r\nmany detailed ones. \r\nPrioritise user stories jointly by moving the user stories on the \r\ntemplate. Select a coherent amount of high-priority stories to be \r\ndeveloped first \u2013 this will be your MVP1 \u2013 but ensure it can be \r\ndeployed as a value-creating solution. \r\nDefine acceptance criteria for all the detailed user stories in close \r\ncollaboration with the development team. There are different \r\nacceptance criteria each user story must meet depending on the \r\nneed: functional, performance, usability acceptance criteria, etc. \r\nThese will tell you when a user story is completed or not. ",
+    "templateImages": [],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EUsbtsDVwM9FsjTG0aVv_5gBBj3RjR3iexoG-D9z5ABtKw?e=lOheyK"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "value-proposition-canvas",
+    "cardName": "Value Proposition Canvas",
+    "core": "Expansion",
+    "modesOfDesign": "Realise",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 7
+      }
+    ],
+    "frontImage": "/cards/nabc-pitch-front.jpg",
+    "backImage": "/cards/value-proposition-canvas-back.jpg",
+    "arIconImage": "/cards/value-proposition-canvas-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Achieve Product-Market fit! \r\nA value proposition canvas helps you visualise the \r\nvalue you create for your customers.\r\nA product or service\u2019s success relies on its ability \r\nand effectiveness in relieving pains or creating \r\ncustomer gains.\r\nThe value proposition canvas expands on the value \r\nproposition block of the business model canvas. ",
+    "backText": "Gather all information you have on user needs across different \r\nsegments. Also, gather all your information on the benefits created \r\nby your conceptual solution.\r\nFill out the right side of the template first \u2013 this is the customer/user \r\nperspective: Place a relevant customer persona at the centre. List the \r\njobs that the persona is trying to get done. List what pains the user \r\nexperiences and what gains they expect or desire (see also the Pains \r\nand Gains card).\r\nFill out the left side of the template second. List the core features \r\nof your solution in the \u201cProducts & Services\u201c section. List how the \r\nsolution relieves the pains listed in the circle. List how the solution \r\nfulfils gains.\r\nRepeat this for each of your customer/user segments and assess the \r\nproduct market fit by comparing how your solution creates value for \r\neach segment. \r\nFinally, define early indicators that point to whether your solution \r\nwill achieve its intended goal. Early indicators are metrics that can be \r\nmonitored throughout the development process.",
+    "templateImages": [],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EZKMvOQTKs5CpnrnWkchw8QBigv-9nbJSGIN8hJMeV5i7g?e=Eq93vf"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "lean-canvas",
+    "cardName": "Lean Canvas",
+    "core": "Expansion",
+    "modesOfDesign": "Realise",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 7
+      }
+    ],
+    "frontImage": "/cards/lean-canvas-front.jpg",
+    "backImage": "/cards/lean-canvas-back.jpg",
+    "arIconImage": "/cards/lean-canvas-ar.jpg",
+    "videoUrl": "",
+    "frontText": "No-waste business model! \r\nThe lean canvas is an adaption of the classic \r\nbusiness model canvas. It follows a similar structure \r\nbut combines it with the Lean methodology to \r\nachieve a \u201cquick to market\u201d model.\r\nThe Lean Canvas guides you through 9 blocks \r\ndetailing your business model and go-to-market \r\napproach. ",
+    "backText": "Fill out the Customer Segment block on the template. Detail who it is \r\nyou are solving a problem for with your solution.\r\nFill out the Problem block. List the 1-3 most important problems your \r\ncustomer segment experiences related to your solution. \r\nDescribe your Unique Value Proposition. Why should the customer \r\nchoose your solution? Which value do you create that makes you \r\ndifferent?\r\nDescribe what your Solution is and how it works. \r\nIdentify the Channels through which you plan to reach your customer \r\nsegment. Which ones do you have access to, and which ones are your \r\ncustomer segment already in?\r\nDefine what your Revenue Streams for the solution will be. \r\nDetail your Cost Structure. What are your costs once the solution is \r\ndeployed? Include capacity expenses as well as operating expenses. \r\nDefine what Key Metric will be used to monitor the performance of \r\nyour solution.\r\nFinally, what is the Unfair Advantage you have that others can\u2019t buy?",
+    "templateImages": [
+      "/cards/lean-canvas-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EQyGGE4dQPJEnPsY4c5CvTQB_9-ShpurXlipExg_k92BKA?e=gvt8Xf"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "hand-over-to-stage-gate",
+    "cardName": "Hand-Over To Stage-Gate",
+    "core": "Expansion",
+    "modesOfDesign": "Realise",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 7
+      }
+    ],
+    "frontImage": "/cards/hand-over-to-stage-gate-front.jpg",
+    "backImage": "/cards/hand-over-to-stage-gate-back.jpg",
+    "arIconImage": "/cards/hand-over-to-stage-gate-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Time to hand it over!\r\nYour design efforts have spawned an innovative \r\nconcept \u2013 but what now? One way is to use a stage\u0002gate method to execute the final development and \r\ncommissioning of the product, service, etc.\r\nHanding over to stage-gate lets you see how the \r\nproject will be delivered through a comprehensive \r\nlinear plan with periodic checkpoints called gates.\r\nThe key is to provide the project team with all the \r\ninformation collected through the design thinking \r\nprocess relevant to their process plan.",
+    "backText": "Realise that Stage-Gate typically follows the following stages: \r\nScoping, Business case, Development, Testing & Validation, and \r\nLaunch. Since this is a linear process, a successful handover greatly \r\nimpacts all stages.\r\nGather all documents from your process that may be relevant for \r\nthe hand-over. Be sure to convey not just the solution but also the \r\nproblem in great detail. This includes, e.g. user journeys, design \r\nquestions, prototypes, test results etc.\r\nHand over all information on the problem and the solution to the \r\nproject team and project manager, that will finalise the solution. This \r\nis best done in a workshop format, with ample time to ask questions \r\nabout the documents.\r\nParticipate in setting the requirements that the project manager \r\nneeds to scope the project. Include as many people from the \r\ndesign team for as long as feasible to ensure the hand-over of tacit \r\nknowledge. The goal is to set the project\u2019s scope (requirements), \r\ntime, and budget.\r\nAssess the business case and risks with the project manager. The \r\ninput for this is in the data from your design project and is best \r\ndone in direct collaboration with the project manager and the full \r\ndesign team. Use design thinking methods to mitigate identified risks \r\nthrough quick experiments if needed.",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "hand-over-to-agile",
+    "cardName": "Hand-Over To Agile",
+    "core": "Expansion",
+    "modesOfDesign": "Realise",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 7
+      }
+    ],
+    "frontImage": "/cards/hand-over-to-agile-front.jpg",
+    "backImage": "/cards/hand-over-to-agile-back.jpg",
+    "arIconImage": "/cards/hand-over-to-agile-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Time to hand it over!\r\nYou have a strong concept \u2013 but what about \r\ndetailed design? One way is to use agile \r\napproaches to execute the final development and \r\ncommissioning of the product, service, etc.\r\nHanding over to Agile enables you to see how the \r\nproject will be delivered through a flexible plan \r\nthat deploys features in short release times.\r\nThe key here is to provide the agile team with \r\nall the information collected through the design \r\nthinking process \u2013 also the information that was \r\nnever written down.",
+    "backText": "Gather all documents from your process that may be relevant for \r\nthe agile hand-over. Be sure to convey not just the solution but also \r\nthe problem in great detail. This includes, e.g. user journeys, design \r\nquestions, prototypes, test results etc.\r\nBreak down each part of your conceptual solution with the full team \r\ninvolved in finalising the product. The goal is to create the basis for \r\ncreating a relevant backlog for Agile development.\r\nCreate specifications for each part of your conceptual solution. These \r\nare most easily done as user stories and epics that describe all the \r\nfeatures that must be developed. You must now be very concrete and \r\nnot stop until all aspects of the concept are detailed in user stories. The \r\ngoal is to create a backlog for Agile (see the User Story Mapping card) \r\nGive the user stories and epics a prioritisation score and assess their \r\nsize and difficulty.\r\nPlan the sprints by assigning user stories to their backlog. Start with \r\nthe highest priority but be realistic with the time you have.\r\nYou are ready to begin your Agile process. If you need more \r\nguidance, see the \u201cAgile Planning\u201c card.",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "process-alignment",
+    "cardName": "Process-Alignment",
+    "core": "Expansion",
+    "modesOfDesign": "Realise",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 7
+      }
+    ],
+    "frontImage": "/cards/process-alignment-front.jpg",
+    "backImage": "/cards/process-alignment-back.jpg",
+    "arIconImage": "/cards/process-alignment-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Strengthen the collaboration! \r\nWhen you develop with partners, you must \r\nestablish an excellent joint process for the \r\ncollaboration aligned with the various partners\u2019 \r\ninternal processes.\r\nAs a starting point for projects in new areas, we \r\nsuggest a form of Agile process, and for well\u0002known areas, a stage-gate basis may be preferable.",
+    "backText": "Invite the partners you wish to collaborate with in the development \r\nprocess to a workshop where you can align processes.\r\nPresent your solution concept\u2019s main purpose and features thoroughly \r\nwithout drowning the participants in details. NABC pitch, project \r\nposter, and user story map may help you here (see cards). Facilitate a \r\ndiscussion of your material and allow all partners to ask questions.\r\nEveryone Outlines one by one how they would run the project based \r\non experience from a similar project that they have done, not their \r\nformal process descriptions. \r\nDesign a new process together for the project, incorporating all \r\nthe best and needed practices identified in step 3. It is important \r\nthat everyone gets heard and that the process fulfils each partner\u2019s \r\ngovernance requirements.\r\nConfirm that all partners are on board with the new aligned process. \r\nAccept it as the way of working on the project. Update regularly \r\nthrough retrospective meetings to improve the process.",
+    "templateImages": [],
+    "templatesUrl": [],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "rapid-prototyping",
+    "cardName": "Rapid Prototyping",
+    "core": "Expansion",
+    "modesOfDesign": "Ideate",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 4
+      }
+    ],
+    "frontImage": "/cards/rapid-prototyping-front.jpg",
+    "backImage": "/cards/rapid-prototyping-back.jpg",
+    "arIconImage": "/cards/rapid-prototyping-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Build to get ideas! \r\nRapid prototyping is about building to get ideas, \r\nas opposed to prototyping at a later stage which is \r\nabout building selected ideas.\r\nA rapid prototype is an unfinished physical \r\nversion of your idea. It can be used to develop \r\nand communicate an idea, thereby facilitating \r\ncollaboration in a team around further idea \r\ndevelopment.\r\nRapid prototyping can create ideas for products, \r\nservices, or organisational processes and structures.",
+    "backText": "Set a direction for your idea creation, e.g. in the form of a design \r\nquestion or a mood board. If you have multiple directions (e.g. more \r\nthan one design question), you can repeat the process several times \r\nor divide the directions among the group.\r\nBuild fast prototypes in silence. Each team member tries to create 10 \r\nideas through small, rapid prototypes in 10 minutes.\r\nPresent the ideas to the team and ask the designer questions about \r\ntheir choices. Refrain from giving feedback on the quality of the \r\nconcept.\r\nDevelop 3-5 new prototypes that combine the best elements from \r\nthe first rapid prototypes. For example, focus on environment, \r\nservice, product, appearance, function or use of prototypes to create \r\nvariety.\r\nPresent your prototypes to relevant stakeholders. Use their feedback \r\nas insights to develop the ideas further, e.g. by building new \r\nprototypes.\r\nRepeat the process for all your design directions.",
+    "templateImages": [
+      "/cards/rapid-prototyping-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EcklH732Df9MvNWSrlJmWNQBfCVTgvlN3HJH0ZPqmCqxFQ?e=W0gPbi"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "user-driven-prototyping",
+    "cardName": "User-Driven Prototyping",
+    "core": "Expansion",
+    "modesOfDesign": "Ideate",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 4
+      }
+    ],
+    "frontImage": "/cards/user-driven-prototyping-front.jpg",
+    "backImage": "/cards/user-driven-prototyping-back.jpg",
+    "arIconImage": "/cards/user-driven-prototyping-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Involve users!\r\nWhy not have your users inspire idea generation?\r\nGain insights by watching your user create their \r\nsolutions. Observing the user can reveal desires or \r\nassumptions that users may not have verbalised in \r\nyour research. ",
+    "backText": "Present a situation or question to your users. Their response to it \r\nwould reveal valuable insights for your process, e.g. \u201dDesign the ideal \r\nwebsite from which to order pizza\u201d.\r\nBalance how much support you provide to the user and how much \r\nyou ask them to create. Ideally, you would scaffold the prototype \r\nenough to help them generate ideas while not so much that it would \r\nprime them or restrict them. For example, if you ask them to mock \r\nup a website, you may want to give them a piece of paper with some \r\nboxes to fill.\r\nObserve the user create.\r\nUsers present their prototypes. Ask follow-up questions to encourage \r\nthem to explain how the prototype solves the situation.\r\nTake notes of what the users say and use them for further idea \r\ndevelopment.",
+    "templateImages": [],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EcbbvTqq3TFDgbpDMQqbOx0BHQaGjEfA1mFRzel3aZmppg?e=ydujzr"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "mash-up",
+    "cardName": "Mash-Up",
+    "core": "Expansion",
+    "modesOfDesign": "Ideate",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 4
+      }
+    ],
+    "frontImage": "/cards/mash-up-front.jpg",
+    "backImage": "/cards/mash-up-back.jpg",
+    "arIconImage": "/cards/mash-up-ar.jpg",
+    "videoUrl": "",
+    "frontText": "It\u2019s the fusion food of design!\r\nCombine different categories to come up with \r\ninnovative ideas.\r\nThis exercise helps the participants find analogies \r\nwhich can reveal new solutions.",
+    "backText": "Ensure the problem is well defined, e.g. in a \u201dHow-might-we\u201d format.\r\nDraw three columns on a whiteboard.\r\nWrite a category that relates directly to your problem as the title of \r\nthe first column, e.g. \u201celements of a pizza ordering experience\u201d\r\nWrite a category that is not related to you problem in the second \r\ncolumn, e.g. \u201cthings you would find in a waiting room\u201d.\r\nLeave blank the final column; this is where your new ideas will be.\r\nBrainstorm in a group as many different elements as possible under \r\neach of the two categories. Use 5 minutes for each column. Write \r\nthese elements on Post-its.\r\nPick one Post-it from each of the first two columns and mash-[them]- \r\nup to find a product or service that is a mix of both. Draw the idea on \r\na Post-it and place it in the third column.\r\nCluster and evaluate your ideas, maybe by using an affinity diagram \r\n(see card).",
+    "templateImages": [],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EeREo-gv-ltCiowhkU4hJXUB5DtQj13hVFa__Lq9NzVOtQ?e=FQN7jH"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "scamper",
+    "cardName": "Scamper",
+    "core": "Expansion",
+    "modesOfDesign": "Ideate",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 4
+      }
+    ],
+    "frontImage": "/cards/scamper-front.jpg",
+    "backImage": "/cards/scamper-back.jpg",
+    "arIconImage": "/cards/scamper-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Turn it inside out!\r\nSCAMPER takes an existing solution and helps the \r\nteam generate ideas by exploring it through seven \r\nphysical principles.\r\nThe list of principles that SCAMPER presents \r\nprovides a structure to your ideation which may be \r\nespecially beneficial for teams who could be more \r\nexperienced in brainstorming.",
+    "backText": "Find an existing product, service, or process that is relevant to your \r\nproblem.\r\nAsk the team questions regarding each of the following seven principles:\r\n\u2022 Substitute - find alternatives for aspects, parts or the whole \r\ndesign itself.\r\n\u2022 Combine - merge ideas, parts, steps, etc.\r\n\u2022 Adapt - change elements of the design to meet new needs.\r\n\u2022 Magnify or minimise - scale parts of your design or the whole \r\ndesign.\r\n\u2022 Put to other uses - rethink the design to reveal new uses or reach \r\nnew users.\r\n\u2022 Eliminate or elaborate - remove or change unnecessary parts of \r\nthe design.\r\n\u2022 Rearrange or reverse - change the order of steps or parts.\r\nRecord your answers to each question on the template.\r\nReview your answers to reveal appropriate and feasible solutions",
+    "templateImages": [
+      "/cards/scamper-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EdT_saYfedNGsqPZ1-uACqgBtZo-s8ohT1Bk-0clGNrm3Q?e=NJyvmt"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "morphological-chart",
+    "cardName": "Morphological Chart",
+    "core": "Expansion",
+    "modesOfDesign": "Ideate",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 4
+      }
+    ],
+    "frontImage": "/cards/morphological-chart-front.jpg",
+    "backImage": "/cards/morphological-chart-back.jpg",
+    "arIconImage": "/cards/morphological-chart-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Divide and conquer!\r\nIn this method, the team defines the various \r\nfunctions the solution must fulfil and generates \r\nideas for each function independently.\r\nThis method can help you find unexpected \r\nrelationships and opportunities.\r\nIt follows a structured framework that encourages \r\nthe exploration of the entire problem space.",
+    "backText": "Find the functions the solution must fulfil. We recommend you use \r\nthe \u201dJobs-to-be-done\u201d or \u201chouse of quality\u201d card for this.\r\nWrite down each function in the first column of the template.\r\nBrainstorm collectively as a team around each function one at a time. \r\nDraw ideas for each function in the appropriate rows.\r\nCombine ideas across and among the rows to create new solution \r\nconcepts.",
+    "templateImages": [
+      "/cards/morphological-chart-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EcGk8pPPTL1ImbMGfltnD5YB0aWhKYPJlYLIgIV2ek_qtA?e=1uK6Pi"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "lotus-blossom",
+    "cardName": "Lotus Blossom",
+    "core": "Expansion",
+    "modesOfDesign": "Ideate",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 4
+      }
+    ],
+    "frontImage": "/cards/lotus-blossom-front.jpg",
+    "backImage": "/cards/lotus-blossom-back.jpg",
+    "arIconImage": "/cards/lotus-blossom-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Explore different possibilities!\r\nThis exercise helps you methodically explore \r\ndifferent parts or approaches to your solution.\r\nIt is a more structured version of brainstorming \r\nthat can be useful when the defined problem \r\noffers very different potential approaches \r\nregarding the solution.",
+    "backText": "Define the problem well, e.g. in a \u201dHow-might-we\u201d format.\r\nWrite your problem statement at the template\u2019s or whiteboard\u2019s centre.\r\nHave the team brainstorm around the problem until you develop 8 \r\ndifferent themes.\r\nDraw/write these on Post-its and place them around the problem \r\nstatement.\r\nDevelop 8 new themes or ideas around each of the previous 8.\r\nContinue \u201dblossoming\u201d until the team feels they have exhausted \r\nevery theme.",
+    "templateImages": [
+      "/cards/lotus-blossom-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EfwqNEbNSz1GpNLFyV98vQkBrS9v6335VU8xYy8GiWBwQQ?e=6C02aZ"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "brain-writing-6-3-5",
+    "cardName": "Brain Writing 6-3-5",
+    "core": "Expansion",
+    "modesOfDesign": "Ideate",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 4
+      }
+    ],
+    "frontImage": "/cards/brain-writing-6-3-5-front.jpg",
+    "backImage": "/cards/brain-writing-6-3-5-back.jpg",
+    "arIconImage": "/cards/brain-writing-6-3-5-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Put it on paper!\r\nBrainwriting is done by having everyone think of \r\nideas individually and later on come together to \r\nshare the ideas.\r\nIts name describes 6 participants coming up with 3 \r\nideas each in 5 minute rounds.\r\nThis method fosters the equal participation of all \r\nteam members, whatever their personality.\r\nIt is a productive method as each person thinks of \r\nmany solutions, thus resulting in large quantities \r\nof ideas.",
+    "backText": "Bring your team together and communicate the brief. Ideally, we \r\nneed groups of 6 to do this exercise, but it can be accomplished with \r\nfewer participants.\r\nChoose a moderator.\r\nGive two \u201dBrainwriting 6-3-5\u201d templates to each participant.\r\nWrite the problem statement of the brainwriting session on the top \r\nof the templates.\r\nParticipants write their names in the first available row.\r\nThe moderator gives participants 5 minutes to develop 3 ideas \r\neach and sketch/ write them in each column. It is done individually \r\nand in silence.\r\nThe moderator signals the end of the 5 minutes, and the sheet must \r\nbe passed on to the next participant on the right.\r\nRepeat steps 5-7 until all the rows are filled.",
+    "templateImages": [
+      "/cards/brain-writing-6-3-5-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EQnKRTPCdDBIqNBBn9-wYIEBuswOgIA5wYP7DgioebSwYg?e=uzkQAb"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "future-scenarios",
+    "cardName": "Future Scenarios",
+    "core": "Expansion",
+    "modesOfDesign": "Ideate",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 4
+      }
+    ],
+    "frontImage": "/cards/future-scenarios-front.jpg",
+    "backImage": "/cards/future-scenarios-back.jpg",
+    "arIconImage": "/cards/future-scenarios-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Imagine the future!\r\nCreating common scenarios for the expectations of \r\nthe future increases the team\u2019s ability to assess the \r\nrobustness of ideas and solutions.\r\nWhen we use future scenarios as a starting point \r\nfor creating ideas, we shift our thinking from \u201cwhat \r\nmakes sense now\u201d to \u201cwhat will make sense in the \r\nlong run\u201d.\r\nUsually, we create future scenarios internally. \r\nOccasionally we can make them with particularly \r\nrelevant partners.",
+    "backText": "Choose a future framework based on jobs-to-be-done, design \r\nquestions or a mood board, e.g. \u201dDigitally supported food delivery in \r\n2030\u201d. Usually, it is 5-10 years into the future.\r\nResearch trends that will affect your problem based on this \r\nframework - typically economic, political, technological and social \r\nfactors (see PEST card).\r\nIdentify 2 critical drivers for your future framework that you have \r\nvery little influence on, for example. \u201dHow often people cook their \r\nmeals\u201d and \u201dCentralising e-commerce\u201d.\r\nSet up the two drivers as \u201d high - low\u201d axes on a coordinate system. \r\nThey give you 4 scenarios.\r\nDetail the four scenarios based on your joint research. Ensure they \r\nare all equally plausible.\r\nBrainstorm ideas for concrete solutions in the four scenarios, one at \r\na time. For example, you can use your design questions and move \r\nthem around in the four scenarios.\r\nRank all ideas according to how many scenarios you think they make \r\nsense in. If an idea makes sense in more scenarios, it will be more \r\nrobust in the future.",
+    "templateImages": [
+      "/cards/future-scenarios-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EfKrLfnwpu5OtNnY1R7MujkBBm2oOxwjVG9bEGnr-pzqIw?e=iSWiZK"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  },
+  {
+    "id": "c-box",
+    "cardName": "C-Box",
+    "core": "Expansion",
+    "modesOfDesign": "Ideate",
+    "cardDetails": [
+      {
+        "category": 0,
+        "mode": 4
+      }
+    ],
+    "frontImage": "/cards/c-box-front.jpg",
+    "backImage": "/cards/c-box-back.jpg",
+    "arIconImage": "/cards/c-box-ar.jpg",
+    "videoUrl": "",
+    "frontText": "Put it in the right box! \r\nC-Box aids your ideation process by providing a \r\nstructure to visually organise your ideas based on \r\nease of implementation and potential impact.\r\nThis method helps you categorise and evaluate the \r\nideas. Simultaneously, it enables you to identify \r\nmechanisms for improving them.",
+    "backText": "Gather all the ideas you want to evaluate, preferably on Post-its.\r\nEnsure everyone in the team is familiar with all the ideas before \r\ndiving into this method.\r\nExplain the template to your team. It consists of a 2x2 matrix \r\norganised through 2 axes: the level of impact (horizontal axis) and \r\nease of implementation (vertical axis). They create 4 quadrants where \r\nyou will place the ideas: low impact and hard to implement, high \r\nimpact but hard to implement, low impact but easy to implement, \r\nhigh impact and easy to implement.\r\nPlace the ideas in one of these quadrants and map them relative to \r\neach other. Do this with all the ideas.\r\nAssess which ideas you want to take forward once the C-Box fills up. \r\nA concept with high impact and ease of implementation will be the \r\nmost desirable. However, discuss with the team and consider how \r\nhighly impactful ideas but difficult to implement can be transformed \r\nso they are easier implemented. This quadrant is likely where the \r\nopportunities hide.",
+    "templateImages": [
+      "/cards/c-box-template-1.jpg"
+    ],
+    "templatesUrl": [
+      "https://ampersandassoc.sharepoint.com/:b:/s/AmperCoreTeam/EQs_EA2V5H1Bjfuo0Fu55dMBCeTbbVyAI0Jhifn3RVagQQ?e=d4chif"
+    ],
+    "comicStripes": [],
+    "swapCardId": null
+  }
+]
